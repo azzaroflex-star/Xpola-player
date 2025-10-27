@@ -1,12 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INTER MIAMI FHD
-http://3in1football.online:80/play/V4h-GBQmtI0ubwB3HPkPp_WMCVqomFkyg3pk5YplWHk/ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INTER MIAMI HD
-http://3in1football.online:80/play/V4h-GBQmtI0ubwB3HPkPp4Y9rEvf_uj2ZYUdNzSZRvs/ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INTER MIAMI SD
-http://3in1football.online:80/play/V4h-GBQmtI0ubwB3HPkPp6i7sdeBienZ34-5H9gOFxs/ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",barca
-http://3in1football.online:80/play/V4h-GBQmtI0ubwB3HPkPp56zL1fisYNdx7a_WX5ihxg/ts
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SPORTS 1 8k
 http://3in1football.online:80/play/V4h-GBQmtI0ubwB3HPkPpz6XCKNH_chSaxyIWB_sDAE/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SPORTS 2 8k
