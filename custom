@@ -1,6 +1,3 @@
-#EXTINF:-1, Tst
-#EXTVLCOPT:http-player-type=m3u
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=yxx9f68f96x964s7s4z
-http://het104a.4rouwanda-shop.store/live/918454578001/index.m3u8
-
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+http://3in1football.online/get.php?username=UV4wJXRc4a&password=hq7PNEPe8X&type=m3u
