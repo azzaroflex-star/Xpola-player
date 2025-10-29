@@ -1,7 +1,3 @@
-#EXTINF:-1, 8989
-#EXTVLCOPT:http-player-type=m3u
-http://tayaar.xyz:80/get.php?username=464748339&password=637473833&type=m3u
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SPORTS 1 8k
 http://3in1football.online:80/play/V4h-GBQmtI0ubwB3HPkPpz6XCKNH_chSaxyIWB_sDAE/ts
@@ -256,4 +252,5 @@ http://3in1football.online:80/play/V4h-GBQmtI0ubwB3HPkPp5TVLN07MvcYwu7MagZNAsE/t
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AD Sport 1 FHD
 #EXTINF:-1, 8989
 #EXTVLCOPT:http-player-type=m3u
+
 http://tayaar.xyz:80/get.php?username=464748339&password=637473833&type=m3u
