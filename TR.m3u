@@ -1,5 +1,5 @@
-#EXTINF:-1, TR
-http://38gb.pro:80/get.php?username=1100788991&password=14811&type=m3u
+
 #EXTINF:-1, Tr
 #EXTVLCOPT:http-player-type=m3u
+
 http://38gb.pro:80/get.php?username=1100788991&password=14811&type=m3u
