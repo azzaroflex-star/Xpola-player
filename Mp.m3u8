@@ -1,5 +1,34 @@
-#EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
-#EXTVLCOPT:http-user-agent=your-agent-here
-http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=LDTj6Igs7lNY5IWMxe-yEg&e=1761801509
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",##### AR - BEIN SPORTS 4K #####
+http://suphotte.xyz:80/234883593963044/2647968442/207574
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 1 4K
+http://suphotte.xyz:80/234883593963044/2647968442/203885
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 1 4K²
+http://suphotte.xyz:80/234883593963044/2647968442/552067
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 2 4K
+http://suphotte.xyz:80/234883593963044/2647968442/203886
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 2 4K²
+http://suphotte.xyz:80/234883593963044/2647968442/552068
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 3 4K
+http://suphotte.xyz:80/234883593963044/2647968442/203887
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 3 4K²
+http://suphotte.xyz:80/234883593963044/2647968442/552069
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 4 4K
+http://suphotte.xyz:80/234883593963044/2647968442/203888
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 4 4K²
+http://suphotte.xyz:80/234883593963044/2647968442/552073
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 5 4K
+http://suphotte.xyz:80/234883593963044/2647968442/203889
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 5 4K²
+http://suphotte.xyz:80/234883593963044/2647968442/552074
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 6 4K
+http://suphotte.xyz:80/234883593963044/2647968442/203890
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 6 4K²
+http://suphotte.xyz:80/234883593963044/2647968442/552075
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 7 4K
+http://suphotte.xyz:80/234883593963044/2647968442/203891
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 7 4K²
+http://suphotte.xyz:80/234883593963044/2647968442/552076
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 8 4K²
+http://suphotte.xyz:80/234883593963044/2647968442/552077
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 9 4K²
+http://suphotte.xyz:80/234883593963044/2647968442/552078
