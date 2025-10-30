@@ -19,19 +19,28 @@ http://135.125.109.73:9000/beinsport6_.m3u8
 #EXTINF:-1, Bin sport.7🇩🇿
 
 http://135.125.109.73:9000/beinsport7_.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bin.1🇩🇿
-http://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=yEmgILiHJr499jsMalQzEw&e=1761475270
+
+http://176.119.29.7/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bin.2🇩🇿
-http://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=YpLuL4EFqGuMFzTCixxvUA&e=1761476124
+http://176.119.29.7/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bin.3🇩🇿
-http://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=RIbVdS2qY2zJKm_meSKSlw&e=1761479145
+http://176.119.29.54/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bin.4🇩🇿
-http://het000.4rouwanda-shop.store/live/9787488847/index.m3u8?t=N9UKQgCtfPYnWRuvvk8sHA&e=1761477026
+http://176.119.29.54/6f91c9ad-073b-486a-ab15-f537f6bea3e2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bin.5🇩🇿
-http://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=49kAuOc8SD-DJlj4S9fiRA&e=1761477346
+http://176.119.29.54/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bin.6🇩🇿
-http://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=syl1YUlbaII4wHOoQl0VMQ&e=1761478639
+http://176.119.29.54/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bin.7🇩🇿
 http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=o2zdn7zCkx2l1fdq8ezipw&e=1761475513
+
 
