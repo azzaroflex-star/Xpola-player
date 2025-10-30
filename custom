@@ -1,0 +1,4 @@
+#EXTINF:-1, TR
+#EXTVLCOPT:http-player-type=m3u
+http://tayaar.xyz:80/get.php?username=464748339&password=637473833&type=m3u
+
