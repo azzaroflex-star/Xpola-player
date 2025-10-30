@@ -1,3 +1,2 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
-http://3in1football.online/get.php?username=UV4wJXRc4a&password=hq7PNEPe8X&type=m3u
+#EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
+http://tayaar.xyz:80/get.php?username=464748339&password=637473833&type=m3u
