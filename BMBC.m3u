@@ -1,144 +1,82 @@
-EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-abu-dhabi-ae.svg" group-title="❤️ MBC/SHAHID/OSN",AD Nat Geo HD
-http://38gb.pro/live/11007889/9114811/162842.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-documentary-qa.svg" group-title="❤️ MBC/SHAHID/OSN",Al Jazeera Documentary HD
-http://38gb.pro/live/11007889/9114811/162839.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/6fa0ee9d-7f60-4815-b075-8a6311d08086?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Al Sadma
-http://38gb.pro/live/11007889/9114811/190537.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2024/Amjad/july/Thump_AlSaudia/original/Thump_AlSaudia.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",AlSaudia
-http://38gb.pro/live/11007889/9114811/177644.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2024/Amjad/july/Thump_Alikhbariya/original/Thump_Alikhbariya.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Alikhbariya
-http://38gb.pro/live/11007889/9114811/177647.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/80341c5b-6c68-406d-b8a8-673f1481c4e8?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Alikhbariya
-http://38gb.pro/live/11007889/9114811/190541.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2024/AMR-EID/Thump_khosama/original/Thump_khosama.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Alkhuzama Radio
-http://38gb.pro/live/11007889/9114811/177620.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asharq-discovery-sa.png" group-title="❤️ MBC/SHAHID/OSN",Asharq Discovery
-http://38gb.pro/live/11007889/9114811/162840.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asharq-discovery-sa.png" group-title="❤️ MBC/SHAHID/OSN",Asharq Discovery HD
-http://38gb.pro/live/11007889/9114811/162844.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Al_Thaqafeya/original/thump_Al_Thaqafeya.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Asharq Documentary
-http://38gb.pro/live/11007889/9114811/177640.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asharq-documentary-sa.png" group-title="❤️ MBC/SHAHID/OSN",Asharq Documentary
-http://38gb.pro/live/11007889/9114811/162843.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asharq-documentary-sa.png" group-title="❤️ MBC/SHAHID/OSN",Asharq Documentary HD
-http://38gb.pro/live/11007889/9114811/162845.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/dev/bigtime_HD_thumb_chanel/original/bigtime_HD_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",BIG TIME
-http://38gb.pro/live/11007889/9114811/177621.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/18237642-bafd-407c-b840-4ec6079baec0?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Bedaya  TV
-http://38gb.pro/live/11007889/9114811/190975.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Big Time Plus
-http://38gb.pro/live/11007889/9114811/190951.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/thump_Desi_play/original/thump_Desi_play.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Desi play
-http://38gb.pro/live/11007889/9114811/177671.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2484f928-c977-44cb-8aa7-7b2eb5fc625b?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Freej channel
-http://38gb.pro/live/11007889/9114811/190543.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/50c8190e-adb0-4da8-862d-b02d5a720fec?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Gulf Comedy
-http://38gb.pro/live/11007889/9114811/190957.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/thump_KSA_Now_2/original/thump_KSA_Now_2.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",KSA Now
-http://38gb.pro/live/11007889/9114811/177643.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/kk/karbala_satellite_channel.png" group-title="❤️ MBC/SHAHID/OSN",Karbala Documentary HD
-http://38gb.pro/live/11007889/9114811/162841.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/mbcbolly_thumb_chanel/original/mbcbolly_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",MBC Bollywood
-http://38gb.pro/live/11007889/9114811/177670.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/FEB/mbcdrama_thumb_chanelplus/original/mbcdrama_thumb_chanelplus.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",MBC Drama
-http://38gb.pro/live/11007889/9114811/177669.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/No-Tags/MAY/MBC_FM_thumb_chanel/original/MBC_FM_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",MBC FM
-http://38gb.pro/live/11007889/9114811/177668.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/27b098dd-07ae-4264-9ac2-47da7d720740?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",MBC Iraq
-http://38gb.pro/live/11007889/9114811/177667.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2024/Bedour/Bedour3/Thump_Mbc_Max/original/Thump_Mbc_Max.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",MBC MAX
-http://38gb.pro/live/11007889/9114811/177664.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/MBC_persia_thumb_chanel/original/MBC_persia_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",MBC Persia
-http://38gb.pro/live/11007889/9114811/177663.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/mbcdrama_thumb_chanel/original/mbcdrama_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",MBC Plus Drama
-http://38gb.pro/live/11007889/9114811/177662.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/MBC_1_thumb_chanel/original/MBC_1_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",MBC1
-http://38gb.pro/live/11007889/9114811/177672.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2024/Bedour/Bedour3/Thump_Mbc2/original/Thump_Mbc2.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",MBC2
-http://38gb.pro/live/11007889/9114811/177661.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/mbc4_thumb_chanel/original/mbc4_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",MBC4
-http://38gb.pro/live/11007889/9114811/177659.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Hanin/Aug/thump_Action/original/thump_Action.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Movies Action
-http://38gb.pro/live/11007889/9114811/177656.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_movies_thriller/original/thump_movies_thriller.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Movies Thriller
-http://38gb.pro/live/11007889/9114811/177655.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/10155ab0-81cb-4ee6-a4f7-8c7b8ad11063?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Nasser Al Qassabi
-http://38gb.pro/live/11007889/9114811/190976.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Bedour3/thump_Nature_time/original/thump_Nature_time.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Nature Time
-http://38gb.pro/live/11007889/9114811/177654.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/No-Tags/MAY/panorama_FM_thumb_chanel/original/panorama_FM_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Panorama FM
-http://38gb.pro/live/11007889/9114811/177653.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/3fbd3840-0271-48a0-812a-690fac0e6b00?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Ramadan Ma’na  GCC
-http://38gb.pro/live/11007889/9114811/190540.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/49daed3f-ca00-45e6-8d0f-c8e24c4f5f94?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Ramadan Ma’na Series
-http://38gb.pro/live/11007889/9114811/190539.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/ce578abe-99bd-4579-8552-4831d02f2700?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Ramez
-http://38gb.pro/live/11007889/9114811/190538.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/ce4261d3-1a5c-489d-b38a-38b706fc0b14?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Red Bull TV
-http://38gb.pro/live/11007889/9114811/190954.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2024/Amjad/july/Thump_SBC/original/Thump_SBC.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",SBC
-http://38gb.pro/live/11007889/9114811/177652.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="❤️ MBC/SHAHID/OSN",Saudi Quran
-http://38gb.pro/live/11007889/9114811/190979.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="❤️ MBC/SHAHID/OSN",Saudi Sunnah
-http://38gb.pro/live/11007889/9114811/190980.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/6bbf594f-640d-44f2-950e-94b35ebd05dc?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Seen Channel
-http://38gb.pro/live/11007889/9114811/190536.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/7c04d68b-f6d2-4e47-a616-e73f24c39e73?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Sikkat Safar Channel
-http://38gb.pro/live/11007889/9114811/190955.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/spacetoon_thumb_chanel/original/spacetoon_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Spacetoon
-http://38gb.pro/live/11007889/9114811/177651.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/edcb30a7-5d90-4f8d-9130-8e9452bf5059?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",Studio Channel
-http://38gb.pro/live/11007889/9114811/190977.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2024/Amjad/july/Thump_Thikrayat/original/Thump_Thikrayat.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Thikrayat
-http://38gb.pro/live/11007889/9114811/177634.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/slider/Randa/thump_alchef/original/thump_alchef.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",Top Chef Channel
-http://38gb.pro/live/11007889/9114811/177649.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Aflam/original/thump_Aflam.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",أفلام
-http://38gb.pro/live/11007889/9114811/177648.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Sep/thump_Al_Thaqafeya1/original/thump_Al_Thaqafeya1.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",الثقافية
-http://38gb.pro/live/11007889/9114811/177646.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/untitled0/alhadath_thumb_livechanel/original/alhadath_thumb_livechanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",الحدث
-http://38gb.pro/live/11007889/9114811/177645.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/Asharq_thumb_chanel/original/Asharq_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",الشرق
-http://38gb.pro/live/11007889/9114811/177641.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/Bedour3/Thump_Alsharq_discovery/original/Thump_Alsharq_discovery.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",الشرق ديسكفري
-http://38gb.pro/live/11007889/9114811/177639.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/JAN/Alarabiya-new-Channel-Thumbs/original/Alarabiya-new-Channel-Thumbs.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",العربية
-http://38gb.pro/live/11007889/9114811/177638.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/Thumps/untitled0/Thump_Alarabia_Business_Update/original/Thump_Alarabia_Business_Update.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",العربية Business
-http://38gb.pro/live/11007889/9114811/177637.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_rashed-almajed/original/thump_rashed-almajed.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",راشد الماجد
-http://38gb.pro/live/11007889/9114811/177619.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/36c50d62-e95c-4f85-8d32-8e517f5123fc?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",طرب
-http://38gb.pro/live/11007889/9114811/177657.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_abd-almajed/original/thump_abd-almajed.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",عبدالمجيد عبدالله
-http://38gb.pro/live/11007889/9114811/177618.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2024/AMR-AHMED/Oct/thump_Arabs_Got_Talent/original/thump_Arabs_Got_Talent.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة أرابز جوت تالنت
-http://38gb.pro/live/11007889/9114811/177633.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Al-Asouf/original/thump_Al-Asouf.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة العاصوف
-http://38gb.pro/live/11007889/9114811/177632.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Al-Kabeer/original/thump_Al-Kabeer.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة الكبير أوي
-http://38gb.pro/live/11007889/9114811/177631.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_El-Le-ba/original/thump_El-Le-ba.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة اللعبة
-http://38gb.pro/live/11007889/9114811/177630.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Bab_Al_Hara/original/thump_Bab_Al_Hara.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة باب الحارة
-http://38gb.pro/live/11007889/9114811/177629.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Nov/thump_selfie/original/thump_selfie.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة سيلفي
-http://38gb.pro/live/11007889/9114811/177628.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Tash/original/thump_Tash.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة طاش
-http://38gb.pro/live/11007889/9114811/177627.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Maraya/original/thump_Maraya.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة مرايا
-http://38gb.pro/live/11007889/9114811/177626.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Masrah_masr/original/thump_Masrah_masr.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة مسرح مصر
-http://38gb.pro/live/11007889/9114811/177625.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/slider/Randa/thump_WIFI/original/thump_WIFI.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",قناة واي فاي
-http://38gb.pro/live/11007889/9114811/177624.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/afc1c1f9-2b07-48f6-8141-2d146a48979c?height=auto&width=288&croppingPoint=&version=1&type=avif" group-title="❤️ MBC/SHAHID/OSN",ماجد المهندس
-http://38gb.pro/live/11007889/9114811/177635.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_muhamed-abdo/original/thump_muhamed-abdo.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",محمد عبده
-http://38gb.pro/live/11007889/9114811/177617.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2023/bedour2/thump_naser/original/thump_naser.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",ناصر القصبي
-http://38gb.pro/live/11007889/9114811/177623.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/Wanasa_thumb_chanel/original/Wanasa_thumb_chanel.jpg?height=350&width=960&croppingPoint=&version=1" group-title="❤️ MBC/SHAHID/OSN",وناسه
-http://38gb.pro/live/11007889/9114811/177622.m3u8
+##### AR - MBC #####
+http://suphotte.xyz:80/234883593963044/2647968442/1165626
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC 1 HD
+http://suphotte.xyz:80/234883593963044/2647968442/979
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC 1 +6H  HD
+http://suphotte.xyz:80/234883593963044/2647968442/83097
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC 2 HD
+http://suphotte.xyz:80/234883593963044/2647968442/978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC 3 HD
+http://suphotte.xyz:80/234883593963044/2647968442/977
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC 4 HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088898
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC 4 HD +6H
+http://suphotte.xyz:80/234883593963044/2647968442/49802
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC 5  HD◉
+http://suphotte.xyz:80/234883593963044/2647968442/68061
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC5 HD +6H
+http://suphotte.xyz:80/234883593963044/2647968442/49801
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC ACTION HD
+http://suphotte.xyz:80/234883593963044/2647968442/975
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC BOLLYWOOD HD
+http://suphotte.xyz:80/234883593963044/2647968442/968
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC BOLLYWOOD  HD +6H
+http://suphotte.xyz:80/234883593963044/2647968442/49805
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC DRAMA HD
+http://suphotte.xyz:80/234883593963044/2647968442/973
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC DRAMA HD +6H
+http://suphotte.xyz:80/234883593963044/2647968442/49803
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC DRAMA PLUS  FHD +6H
+http://suphotte.xyz:80/234883593963044/2647968442/49804
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC IRAQ HD
+http://suphotte.xyz:80/234883593963044/2647968442/43000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC MAX HD
+http://suphotte.xyz:80/234883593963044/2647968442/974
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ ANIME HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088885
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ EIGHT HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088878
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ MOVIES HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088879
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ NINE HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088877
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ ONE HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088875
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ PLUS HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088880
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ premium HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088881
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ SEVEN HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088882
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ TEN HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088883
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ TOW
+http://suphotte.xyz:80/234883593963044/2647968442/1088876
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - MBC+ ZOOM HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088884
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC -  AWE HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088892
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC -  FIGHT NETWORK HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088893
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC -  NAUTICAL HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088896
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC -  REEL PX ACTION HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088890
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC -  ZOOMOO HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088891
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - ANIMAL PLANET HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088899
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - DISCOVERY SC HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088900
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - DOCUBOX HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088888
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - FASHION-BOX HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088887
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - FAST-FUN HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088889
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - REEL PX CRIME HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088886
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - TDC HD
+http://suphotte.xyz:80/234883593963044/2647968442/1088895
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC - WANASAH TV HD
+http://suphotte.xyz:80/234883593963044/2647968442/967
