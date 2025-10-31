@@ -300,3 +300,6 @@ http://suphotte.xyz:80/234883593963044/2647968442/909145
 http://suphotte.xyz:80/234883593963044/2647968442/909146
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Quran - يوسف الدغوش Youssef Edghouch
 http://suphotte.xyz:80/234883593963044/2647968442/909147
+#EXTINF:-1, القرآن الكريم
+#EXTVLCOPT:http-player-type=m3u
+http://p.f2s2.xyz:8080/get.php?username=3473146181371994&password=6557574143633247&type=m3u
