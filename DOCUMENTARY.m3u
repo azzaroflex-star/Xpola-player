@@ -1,0 +1,4 @@
+#EXTINF:-1, DOCUMENTARY
+#EXTVLCOPT:http-player-type=m3u
+http://wolvestv.net:8880/get.php?username=80746551156356&password=22314879512479&type=m3u
+
