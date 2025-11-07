@@ -1,4 +1,42 @@
-#EXTINF:-1, DOCUMENTARY
-#EXTVLCOPT:http-player-type=m3u
-http://wolvestv.net:8880/get.php?username=80746551156356&password=22314879512479&type=m3u
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE
+http://wolvestv.net:8880/80746551156356/22314879512479/59526
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 1
+http://wolvestv.net:8880/80746551156356/22314879512479/59527
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 10
+http://wolvestv.net:8880/80746551156356/22314879512479/59538
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 11
+http://wolvestv.net:8880/80746551156356/22314879512479/59539
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 12
+http://wolvestv.net:8880/80746551156356/22314879512479/59540
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 13
+http://wolvestv.net:8880/80746551156356/22314879512479/59541
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 14
+http://wolvestv.net:8880/80746551156356/22314879512479/59542
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 15
+http://wolvestv.net:8880/80746551156356/22314879512479/59543
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 16
+http://wolvestv.net:8880/80746551156356/22314879512479/59544
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 17
+http://wolvestv.net:8880/80746551156356/22314879512479/59545
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 18
+http://wolvestv.net:8880/80746551156356/22314879512479/59546
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 19
+http://wolvestv.net:8880/80746551156356/22314879512479/59547
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 2
+http://wolvestv.net:8880/80746551156356/22314879512479/59528
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 20
+http://wolvestv.net:8880/80746551156356/22314879512479/59548
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 3
+http://wolvestv.net:8880/80746551156356/22314879512479/59529
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 4
+http://wolvestv.net:8880/80746551156356/22314879512479/59530
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 5
+http://wolvestv.net:8880/80746551156356/22314879512479/59532
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 6
+http://wolvestv.net:8880/80746551156356/22314879512479/59533
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 7
+http://wolvestv.net:8880/80746551156356/22314879512479/59534
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 8
+http://wolvestv.net:8880/80746551156356/22314879512479/59536
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 9
+http://wolvestv.net:8880/80746551156356/22314879512479/59537
