@@ -24,7 +24,7 @@ https://vip.mustafatv.xyz:443/live/vip/vip/7.ts
 
 
 
-#EXTINF:-1, Bin sport.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WWd0zfS/1-HD.png" group-title="",Bin.1HD🇩🇿
 http://135.125.109.73:9000/beinsport1_.m3u8
 
 #EXTINF:-1, Bin sport.2
@@ -68,6 +68,7 @@ http://176.119.29.54/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.7
 http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=o2zdn7zCkx2l1fdq8ezipw&e=1761475513
+
 
 
 
