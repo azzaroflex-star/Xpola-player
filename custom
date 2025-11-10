@@ -307,3 +307,6 @@ http://p.f2s2.xyz:8080/get.php?username=3473146181371994&password=65575741436332
 http://p.f2s2.xyz:8080/get.php?username=3473146181371994&password=6557574143633247&type=m3u
 #EXTINF:-1, FILME
 http://h29.ouetvn.space/2203124/58.js?918454578001/50166
+#EXTINF:-1, FILME
+#EXTVLCOPT:http-player-type=m3u
+https://m3u.fr/freetv.m3u
