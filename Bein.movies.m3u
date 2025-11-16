@@ -1,4 +1,110 @@
-#EXTINF:-1, Bein.movies
-#EXTVLCOPT:http-player-type=m3u
-http://s21tv.co/get.php?username=ful-local2023&password=rttyhhhjkiusSSDEEGGGee&type=m3u
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN  Nat geo Wild  FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123127.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Animal Planet  FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123115.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein BARAEAM 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837384.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN BARAEAM 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371293.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein BBC EARTH 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837377.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN BBC EARTH 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371290.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Cartoonito 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837386.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Drama 1 FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123110.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN DRAMA 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837368.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN DRAMA 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein FATAFEAT 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837381.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN FATAFEAT 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371292.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Fatafeat FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123123.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Food Network
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123116.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Food Network 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837383.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN FOX LIFE 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371289.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Fox Life FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123113.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN FOX MOVIES 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371287.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN GORMENT 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371291.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Gourmet 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837382.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Gourmet FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123122.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeIN HGTV 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837375.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Jeem
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123128.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein JEEM 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837385.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN JEEM 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371294.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Movies 1 FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123106.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Movies 2 FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123107.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Movies 3 FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123108.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Movies 4 FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123109.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN MOVIES 4K 1
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371280.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN MOVIES 4K 2
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371281.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN MOVIES 4K 3
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371282.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN MOVIES 4K 4
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371283.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Nat geo 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837379.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Nat geo Wild 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837380.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Series 1 FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123111.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Series 2 FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123112.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SERIES 4K 1
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837366.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SERIES 4K 1
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371284.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SERIES 4K 2
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837367.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SERIES 4K 2
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Star  ACTION 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/371288.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Star Action  FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123117.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Star Action 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837370.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Star Films 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837372.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Star Life 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837371.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeIN Star Movies 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837369.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Star Movies FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123119.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BeIN Star Series 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837373.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Star World 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837374.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN Star World FHD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/123118.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein TCM 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837376.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Travel 4K
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/837378.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FOX HD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/370763.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FOX MOVIES HD
+http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/370762.ts
