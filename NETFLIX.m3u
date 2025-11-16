@@ -1,0 +1,4 @@
+#EXTINF:-1, NETFLIX
+#EXTVLCOPT:http-player-type=m3u
+http://tayaar.xyz:80/get.php?username=01125060203&password=537586295&type=m3u
+
