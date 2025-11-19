@@ -1,51 +1,31 @@
 ##### TN - TUNISIA #####
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M TUNISIA
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/4784.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",National 1
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/2529.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",National 2
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/2528.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Nessma TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/2526.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/4642.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telvza TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/2521.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TOUNESNA TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/2525.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Zaytouna TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/2523.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Al Insen TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872058.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Al JANOUBIA TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872059.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Attessia TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872060.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Carthage+
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872061.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Elhiwar Ettounsi
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872062.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| HANNIBAL TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872063.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Jawhara FM-TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872064.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Nessma Ejdida
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872065.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Telvza TV
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872070.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Tunisia Educ1
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872071.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Tunisia NAT 1
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872072.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| Tunisia NAT 2
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872073.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",|TU| TUNISNA
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/872069.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Al Barlemania
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/835570.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Arriadia
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/835584.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Athagaviya
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/835585.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Chinguit
-http://s21tv.co:2082/live/ful-local2023/rttyhhhjkiusSSDEEGGGee/835595.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_mustakillah_tv.png" group-title="🇹🇳TUNISIA",AL-MUSTAKILA
+http://38gb.pro/live/11007889/9114811/162485.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_insan_tv_tn.png" group-title="🇹🇳TUNISIA",Al Insen TV
+http://38gb.pro/live/11007889/9114811/162499.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_janoubiya_tv_tn.png" group-title="🇹🇳TUNISIA",Al JANOUBIA TV
+http://38gb.pro/live/11007889/9114811/162500.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/attessia-tv-tn.png" group-title="🇹🇳TUNISIA",Attessia TV
+http://38gb.pro/live/11007889/9114811/162498.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/carthage-plus-tn.png" group-title="🇹🇳TUNISIA",Carthage+
+http://38gb.pro/live/11007889/9114811/162496.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/elhiwar_ettounsi_tv_tn.png" group-title="🇹🇳TUNISIA",Elhiwar Ettounsi
+http://38gb.pro/live/11007889/9114811/162491.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hannibal-tv-tn.png" group-title="🇹🇳TUNISIA",HANNIBAL TV
+http://38gb.pro/live/11007889/9114811/162488.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nessma-tn.png" group-title="🇹🇳TUNISIA",Nessma Ejdida
+http://38gb.pro/live/11007889/9114811/162490.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tunisna-tv-tn.png" group-title="🇹🇳TUNISIA",TUNISNA
+http://38gb.pro/live/11007889/9114811/162494.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telvza-tv-tn.png" group-title="🇹🇳TUNISIA",Telvza TV
+http://38gb.pro/live/11007889/9114811/162487.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/watania-educative-tn.png" group-title="🇹🇳TUNISIA",Tunisia Educ1
+http://38gb.pro/live/11007889/9114811/162486.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/watania_tn_1.png" group-title="🇹🇳TUNISIA",Tunisia NAT 1
+http://38gb.pro/live/11007889/9114811/162492.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/watania_tn_2.png" group-title="🇹🇳TUNISIA",Tunisia NAT 2
+http://38gb.pro/live/11007889/9114811/162489.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/watania_tn_2.png" group-title="🇹🇳TUNISIA",Tunisia Nat2 HD
+http://38gb.pro/live/11007889/9114811/162495.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zitouna-tv-tn.png" group-title="🇹🇳TUNISIA",ZAYTOONA
+http://38gb.pro/live/11007889/9114811/162493.m3u8
