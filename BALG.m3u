@@ -1,22 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="General",AL24 News (1)
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="General",AL24 News (2)
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/al24news/playlist.m3u8
-#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://i.imgur.com/L8UPGPC.png" group-title="General",Amou Yazid TV
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="General",CNA
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ElFadjerTV.dz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/El_Fadjer_TV.png/512px-El_Fadjer_TV.png" group-title="General",El Fadjer TV
-https://stream.wsla.top/play/1.m3u8
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="General",TV2 (1)
-https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="General",TV2 (2)
-https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="General",TV2 (3)
-http://149.62.177.98:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="TV4.dz" tvg-logo="https://i.imgur.com/BZvdjBN.png" group-title="General",TV4
-http://149.62.177.98:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Algerie [ ENTV 1 ]  ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319320.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Canal Algerie [ ENTV 2 ]  ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319321.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Algerie 3 TV [ A3 ]  ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319322.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Echorouk TV  ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319323.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Echorouk News HD  ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319324.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Samira TV  ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319325.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Al Heddaf TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319326.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| El Bilad TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319327.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| AL24 News  ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319328.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| El Djazairia N1 ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319329.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Al Fajer 1 HD ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319330.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Al Bahia TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319331.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Berbere TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319332.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| EnNahar TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319333.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Algerie 2 TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319334.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Algerie Tamazight TV4 ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319335.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Algeria TV Coran [ Algerie 5 ] ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319336.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Algerie 6 TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319337.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Algerie Elmaarifa TV7 ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319338.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Algerie Edhakira TV8 ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319339.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| EL Watania TV Algeria ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319340.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Sahra TV Algeria ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319341.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Al Hayat TV Algerie ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319342.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Zahra TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319343.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Al-Anis TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319344.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="🇩🇿ALGERIA",ENTV ALGERIE
 http://tayaar.xyz:80/live/464748339/637473833/379472.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",| DZ |  CANAL ALGERIE
@@ -43,6 +75,7 @@ http://tayaar.xyz:80/live/464748339/637473833/379462.ts
 http://tayaar.xyz:80/live/464748339/637473833/379460.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",| DZ | Bahia TV باهية
 http://tayaar.xyz:80/live/464748339/637473833/379460.ts
+
 
 
 
