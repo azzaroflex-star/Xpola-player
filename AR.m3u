@@ -1,6 +1,6 @@
-EXTINF:-1 tvg-id="" tvg-logo="" group-title="",SP : bien sport news
+EXTINF:-1 tvg-id="" tvg-logo="https://f.top4top.io/p_36178fiuy9.png" group-title="",SP : bien sport news
 http://tayaar.xyz:80/live/464748339/637473833/250335.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",SP : bien sport GLOBAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.top4top.io/p_36178fiuy9.png" group-title="",SP : bien sport GLOBAL
 http://tayaar.xyz:80/live/464748339/637473833/369700.ts
 EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/666770935.jpg" group-title="",Al Kass Sports1
 http://tayaar.xyz:80/live/464748339/637473833/387084.ts
@@ -20,6 +20,7 @@ EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/175815976.jpg"
 http://tayaar.xyz:80/live/464748339/637473833/168917.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/175815976.jpg" group-title="",SP : AD SPORT 2 HD
 http://tayaar.xyz:80/live/464748339/637473833/314995.ts
+
 
 
 
