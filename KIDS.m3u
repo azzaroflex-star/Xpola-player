@@ -1,5 +1,35 @@
 ##### AR - KIDS #####
 
+#EXTINF:-1  tvg-name="GAWHER KIDS" tvg-logo="https://i.postimg.cc/CMnQXcNB/NR1-Kids-200.jpg" group-title="KIDS",NR1 KIDS
+http://142.132.133.190:1935/live/NR1_HD/playlist.m3u8
+
+#EXTINF:-1  tvg-name="NR1 KIDS" tvg-logo="https://i.postimg.cc/gkc2R8s3/Gaeher-Kids.png" group-title="KIDS",GAWHER KIDS
+https://live9.karwan.tv/Gewher-Kids/index.m3u8
+#EXTINF:-1  tvg-name="KIDCO HD" tvg-logo="https://i.postimg.cc/3N29RbSt/Kidco-200.jpg" group-title="KIDS",KIDCO HD
+http://avrstream.com:1935/live/kidcohd/chunklist_w1629791731.m3u8
+#EXTINF:-1  tvg-name="Atfal Mawaheb" tvg-logo="https://i.postimg.cc/zv7TbxTZ/Atfal-u-mawahid-200.png" group-title="KIDS",Atfal & Mawaheb TV
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1  tvg-name="Kartoon Channel" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="KIDS",Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-name="Moonbug Kids" tvg-logo="https://i.postimg.cc/QChpd29J/moonbugkids-200.png" group-title="KIDS",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Koogi" tvg-logo="https://i.postimg.cc/qv226vLs/Koogi-tv-200.png" group-title="KIDS",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="BabyFirst" tvg-logo="https://i.postimg.cc/7Y83Hz1H/Babyfirst-200.png" group-title="KIDS",BabyFirst
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1  tvg-name="trtcocuk" tvg-logo="https://i.postimg.cc/j5HprcXp/TRT-Chuchak-200.png" group-title="KIDS",TRTcocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="MBC 3" tvg-logo="https://i.postimg.cc/JnPZ2ygb/Mbc-3-200.jpg" group-title="KIDS",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1  tvg-name="Majid Kids" tvg-logo="https://i.postimg.cc/sD0sKVgb/Majid-kids-200.png" group-title="KIDS",Majid Kids
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",KIDS-SPIDER MAN 2008
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/147720.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",KIDS-SPIDER MAN 1981
@@ -111,3 +141,4 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/147779.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",KIDS-CHU CHU TV HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/147780.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",KIDS-FINGER FAMILY HD
+
