@@ -1,3 +1,24 @@
+#EXTINF:-1  tvg-name="Animalbox" tvg-logo="https://i.postimg.cc/3J4YLjyn/Animal-Box-200.png" group-title="Documentary",Animal Box
+https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
+#EXTINF:-1  tvg-name="MMN Ducumetary" tvg-logo="https://i.postimg.cc/SNdB0bbj/MMN-Documentary.png" group-title="Documentary",MMN Documentary
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:-1  tvg-name="National Geographic" tvg-logo="https://i.postimg.cc/T2F56N5L/National-geographic-200.png" group-title="Documentary",National Geographic
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1  tvg-name="Jazeera Documentary" tvg-logo="https://i.postimg.cc/h4z0F5P6/Alajazira-wathaiqya-200.png" group-title="Documentary",Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1  tvg-name="National Geographic Wild" tvg-logo="https://i.postimg.cc/xTD4wccH/Natinal-wild-200.jpg" group-title="Documentary",National Geographic Wild
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1  tvg-name="Amazing Discoveries" tvg-logo="https://i.postimg.cc/v84wJbny/Ad-tv-200.jpg" group-title="Documentary",Amazing Discoveries
+https://rpn.bozztv.com/gfaith/gfaith-amazing/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="DocuBOX" tvg-logo="https://i.postimg.cc/Jzpgm6wk/Docu-Box-200.png" group-title="Documentary",DocuBOX
+http://iptv.prosto.tv:7000/ch93/video.m3u8
+#EXTINF:-1  tvg-name="WildEarth" tvg-logo="https://i.postimg.cc/XY9JzCtm/Wild-earth-hd-200.png" group-title="Documentary",WildEarth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE
 http://wolvestv.net:8880/80746551156356/22314879512479/59526
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 1
@@ -40,3 +61,4 @@ http://wolvestv.net:8880/80746551156356/22314879512479/59534
 http://wolvestv.net:8880/80746551156356/22314879512479/59536
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BLUE DOCUMENTARY MOVIE 9
 http://wolvestv.net:8880/80746551156356/22314879512479/59537
+
