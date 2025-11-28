@@ -22,11 +22,8 @@ EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/175815976.jpg"
 http://tayaar.xyz:80/live/464748339/637473833/168917.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/175815976.jpg" group-title="",SP : AD SPORT 2 HD
 http://tayaar.xyz:80/live/464748339/637473833/314995.ts
-
-
-
-
-
-
-
-
+#EXTINF:-1, AR
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=€69€8#85€86€96€
+https://raw.githubusercontent.com/azzaroflex-star/Xpola-player/main/AR.m3u
