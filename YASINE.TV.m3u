@@ -47,29 +47,33 @@ http://135.125.109.73:9000/beinsport6_.m3u8
 http://135.125.109.73:9000/beinsport7_.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1 HD
+https://a1.apk-api.com/api/channel/1424
 
-http://176.119.29.7/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2 HD
 https://a1.apk-api.com/api/channel/1425
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="",Bin.3
-http://176.119.29.54/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="",Bin.4
-http://176.119.29.54/6f91c9ad-073b-486a-ab15-f537f6bea3e2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="",Bin.3 HD
+https://a1.apk-api.com/api/channel/1426
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="",Bin.5
-http://176.119.29.54/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="",Bin.4 HD
+https://a1.apk-api.com/api/channel/1427
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="",Bin.6
-http://176.119.29.54/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="",Bin.5 HD
+https://a1.apk-api.com/api/channel/1428
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.7
-http://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=o2zdn7zCkx2l1fdq8ezipw&e=1761475513
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="",Bin.6 HD
+https://a1.apk-api.com/api/channel/1429
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.7 HD
+https://a1.apk-api.com/api/channel/1430
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.8 HD
+https://a1.apk-api.com/api/channel/1431
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.9 HD
+https://a1.apk-api.com/api/channel/1432
 
 
 
