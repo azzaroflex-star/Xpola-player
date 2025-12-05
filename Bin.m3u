@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WWd0zfS/1-HD.png" group-title="",AR - BEIN SPORTS 1 HEVC
+https://oma-server.site/test/local/bein1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fCRptJG/2-HD.png" group-title="",AR - BEIN SPORTS 2 HEVC
+https://oma-server.site/test/local/bein2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vJsTbx6/3-HD.png" group-title="",AR - BEIN SPORTS 3 HEVC
+https://oma-server.site/test/local/bein3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DDyhM2T/4-HD.png" group-title="",AR - BEIN SPORTS 4 HEVC
+https://oma-server.site/test/local/bein4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQXP5hZ/5-HD.png" group-title="",AR - BEIN SPORTS 5 HEVC
+https://oma-server.site/test/local/bein5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fqdzQ0n/6-HD.png" group-title="",AR - BEIN SPORTS 6 HEVC
+https://oma-server.site/test/local/bein6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYTdFxZ/7-HD.png" group-title="",AR - BEIN SPORTS 7 HEVC
+https://oma-server.site/test/local/bein7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 8 HEVC
+https://oma-server.site/test/local/bein8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 9 HEVC
+https://oma-server.site/test/local/bein9/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Global HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274160.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Sport News HD
@@ -62,3 +85,4 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274182.ts
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274183.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Sport HD9 720
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274184.ts
+
