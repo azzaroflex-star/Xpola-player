@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WWd0zfS/1-HD.png" group-title="",AR - BEIN SPORTS 1 HEVC
-https://oma-server.site/test/local/bein1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fCRptJG/2-HD.png" group-title="",AR - BEIN SPORTS 2 HEVC
-https://oma-server.site/test/local/bein2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vJsTbx6/3-HD.png" group-title="",AR - BEIN SPORTS 3 HEVC
-https://oma-server.site/test/local/bein3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DDyhM2T/4-HD.png" group-title="",AR - BEIN SPORTS 4 HEVC
-https://oma-server.site/test/local/bein4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQXP5hZ/5-HD.png" group-title="",AR - BEIN SPORTS 5 HEVC
-https://oma-server.site/test/local/bein5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fqdzQ0n/6-HD.png" group-title="",AR - BEIN SPORTS 6 HEVC
-https://oma-server.site/test/local/bein6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYTdFxZ/7-HD.png" group-title="",AR - BEIN SPORTS 7 HEVC
-https://oma-server.site/test/local/bein7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 8 HEVC
-https://oma-server.site/test/local/bein8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AR - BEIN SPORTS 9 HEVC
-https://oma-server.site/test/local/bein9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 1 HD
+http://tayaar.xyz:80/live/464748339/637473833/214594.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 2 HD
+http://tayaar.xyz:80/live/464748339/637473833/149328.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 3 HD
+http://tayaar.xyz:80/live/464748339/637473833/149329.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 4 HD
+http://tayaar.xyz:80/live/464748339/637473833/149330.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 5 HD
+http://tayaar.xyz:80/live/464748339/637473833/149331.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 6 HD
+http://tayaar.xyz:80/live/464748339/637473833/149332.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 7 HD
+http://tayaar.xyz:80/live/464748339/637473833/149333.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 8 HD
+http://tayaar.xyz:80/live/464748339/637473833/149334.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 9 HD
+http://tayaar.xyz:80/live/464748339/637473833/149335.ts
