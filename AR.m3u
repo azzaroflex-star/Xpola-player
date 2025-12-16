@@ -1,5 +1,4 @@
-EXTINF:-1 tvg-id="" tvg-logo="https://f.top4top.io/p_36178fiuy9.png" group-title="",SP : bien sport global
-http://app.gogo-tv.com:2086/live/319957061G/27674/119951.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://f.top4top.io/p_36178fiuy9.png" group-title="",SP : bien sport GLOBAL
 http://tayaar.xyz:80/live/464748339/637473833/484979.ts
 EXTINF:-1 tvg-id="" tvg-logo="https://f.top4top.io/p_36178fiuy9.png" group-title="",SP : bien XTTRA 1
@@ -30,6 +29,7 @@ http://tayaar.xyz:80/live/464748339/637473833/314995.ts
 #EXTVLCOPT:http-drm-license=€69€8#85€86€96€
 
 https://raw.githubusercontent.com/azzaroflex-star/Xpola-player/main/AR.m3u
+
 
 
 
