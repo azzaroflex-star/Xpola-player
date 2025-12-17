@@ -11,3 +11,6 @@ https://linkjust.com/nhu2yu
 #EXTINF:-1, AFC
 #EXTVLCOPT:http-player-type=m3u
 https://linkjust.com/nhu2yu
+#EXTINF:-1, AF
+#EXTVLCOPT:http-player-type=m3u
+https://oma-server.site/test/local/bein1/index.m3u8
