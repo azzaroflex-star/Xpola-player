@@ -5,3 +5,6 @@ http://141.98.115.53/get.php?username=vibertv96&password=rdvewfds&type=m3u
 #EXTINF:-1, Arabia Saudi
 #EXTVLCOPT:http-player-type=m3u
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1, AFC
+#EXTVLCOPT:http-player-type=m3u
+https://linkjust.com/nhu2yu
