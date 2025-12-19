@@ -1,6 +1,5 @@
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DZ : ALGERIA ONE
+INF:-1 tvg-id="" tvg-logo="" group-title="",Mor| Canal Atlas  ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319369.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Algerie [ ENTV 1 ]  ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319320.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Canal Algerie [ ENTV 2 ]  ✦
@@ -51,6 +50,12 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319342.ts
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319343.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dz| Al-Anis TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319344.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MaxCro Select 1 ᴴᴰ
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/40528.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MaxCro Select 2 ᴴᴰ
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/40529.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MaxCro Select 4 ᴴᴰ
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/40532.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="🇩🇿ALGERIA",ENTV ALGERIE
 http://tayaar.xyz:80/live/464748339/637473833/379472.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",| DZ |  CANAL ALGERIE
@@ -77,6 +82,7 @@ http://tayaar.xyz:80/live/464748339/637473833/379462.ts
 http://tayaar.xyz:80/live/464748339/637473833/379460.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",| DZ | Bahia TV باهية
 http://tayaar.xyz:80/live/464748339/637473833/379460.ts
+
 
 
 
