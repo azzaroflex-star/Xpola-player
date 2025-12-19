@@ -1,5 +1,6 @@
 ##### AR - MBC #####
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",News | En: Wion TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319311.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC 1 HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308905.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC 2 HD
@@ -106,3 +107,5 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308955.ts
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308956.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MBC Max SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Kw| Funoon TV ✦
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319651.ts
