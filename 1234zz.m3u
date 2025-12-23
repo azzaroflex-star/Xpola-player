@@ -1,26 +1,3 @@
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSportsPremium1.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 1
-http://app.gogo-tv.com:2086/live/319957061G/27674/120008.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports2.th.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 2
-http://app.gogo-tv.com:2086/live/319957061G/27674/120007.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSportsPremium3.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 3
-http://app.gogo-tv.com:2086/live/319957061G/27674/120006.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports4.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 4
-http://app.gogo-tv.com:2086/live/319957061G/27674/120005.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports5.tr.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 5
-http://app.gogo-tv.com:2086/live/319957061G/27674/120004.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports6.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 6
-http://app.gogo-tv.com:2086/live/319957061G/27674/120003.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports7.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 7
-http://app.gogo-tv.com:2086/live/319957061G/27674/120002.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports8.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 8
-http://app.gogo-tv.com:2086/live/319957061G/27674/120001.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports.ca.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 9
-http://app.gogo-tv.com:2086/live/319957061G/27674/120000.m3u8
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274162.ts
@@ -52,4 +29,23 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/274170.ts
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSportsPremium1.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 1
+http://app.gogo-tv.com:2086/live/319957061G/27674/120008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports2.th.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 2
+http://app.gogo-tv.com:2086/live/319957061G/27674/120007.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSportsPremium3.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 3
+http://app.gogo-tv.com:2086/live/319957061G/27674/120006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports4.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 4
+http://app.gogo-tv.com:2086/live/319957061G/27674/120005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports5.tr.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 5
+http://app.gogo-tv.com:2086/live/319957061G/27674/120004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports6.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 6
+http://app.gogo-tv.com:2086/live/319957061G/27674/120003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports7.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 7
+http://app.gogo-tv.com:2086/live/319957061G/27674/120002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports8.qa.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 8
+http://app.gogo-tv.com:2086/live/319957061G/27674/120001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pan.gogo-tv.com/logos/beINSports.ca.png" group-title="beIN SPORTS (1)",beIN SPORTS HD 9
+http://app.gogo-tv.com:2086/live/319957061G/27674/120000.m3u8
 
