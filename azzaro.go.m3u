@@ -1,6 +1,10 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="🇩🇿ALGERIA",ENTV ALGERIE
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/319320.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4043GB/bein-512.png" group-title="Bein Max  AFCUP",beIN MAX 1 FHD
+http://iptv.mustafatv.xyz:80/live/1995/1995/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4043GB/bein-512.png" group-title="Bein Max  AFCUP",beIN MAX 2 FHD
+http://iptv.mustafatv.xyz:80/live/1995/1995/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4043GB/bein-512.png" group-title="Bein Max  AFCUP",beIN MAX 1 FHD
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/648843.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4043GB/bein-512.png" group-title="Bein Max  AFCUP",beIN MAX 2 HD
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/648844.ts
