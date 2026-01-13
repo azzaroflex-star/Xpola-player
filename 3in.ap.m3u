@@ -16,4 +16,6 @@ http://tayaar.xyz:80/live/464748339/637473833/214588.ts
 http://tayaar.xyz:80/live/464748339/637473833/214587.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="⚽️ BEIN SPORTS",BeIN SPORTS 9 4K
 http://tayaar.xyz:80/live/464748339/637473833/214586.ts
-
+#EXTINF:-1, G
+#EXTVLCOPT:http-player-type=m3u
+http://psk-sdk.ddno.us:8080/get.php?username=c0:23:8d:25:3b:f6&password=RDyrVqmVHciDVEs&type=m3u
