@@ -3,3 +3,7 @@
 #EXTVLCOPT:http-player-type=m3u
 
 http://psk-sdk.ddno.us:8080/get.php?username=c0:23:8d:25:3b:f6&password=RDyrVqmVHciDVEs&type=m3u
+
+#EXTINF:-1, 8
+#EXTVLCOPT:http-player-type=webplayer
+http://psk-sdk.ddno.us:8080/get.php?username=c0:23:8d:25:3b:f6&password=RDyrVqmVHciDVEs&type=m3u
