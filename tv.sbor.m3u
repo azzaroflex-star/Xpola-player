@@ -1000,5 +1000,5 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTVCanada.ca" tvg-logo="https://i.imgur.com/mARKUZ9.png" group-title="General",Zee TV Canada
 https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
-
-
+#EXTINF:-1, 4
+http://154.6.189.161:8085/local/ar-s/WhKxECvZSk/mono.m3u8?md5=4XSEkMImxdj8WiCcGYM6tA&expires=1768370250&type=a1&info=errorgettingmacaddress
