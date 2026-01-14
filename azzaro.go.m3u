@@ -1,7 +1,8 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="🇩🇿ALGERIA",ENTV ALGERIE
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/319320.ts
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4043GB/bein-512.png" group-title="Bein Max  AFCUP",beIN MAX 1 FHD
+http://t1-ssn.zinatv.app/ar-s/bein-sp-max-1-4k-ex/mono.m3u8?md5=YO6Jn9zMdWelXQ6epgoxyA&expires=1768504947&type=a1&info=errorgettingmacaddress
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4043GB/bein-512.png" group-title="Bein Max  AFCUP",beIN MAX 1 FHD
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652403.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4043GB/bein-512.png" group-title="Bein Max  AFCUP",beIN MAX 2 FHD
