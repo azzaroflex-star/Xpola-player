@@ -6,5 +6,7 @@ http://222222.to:2095/live/7126896230201702/6b35354afa003837/83049.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1FHD
 https://appalive.yzz.me/player.php?id=bs-1_low-1&i=1
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4043GB/bein-512.png" group-title="Bein Max  AFCUP",beIN MAX 1 FHD
+http://het101b.ycn-redirect.com/live/918454578001/index.m3u8
 
 
