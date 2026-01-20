@@ -1,32 +1,30 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1FHD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652333.ts
+http://154.6.189.161:8085/ssn/ar-s/bein-sp-1-H265-extended/mono.m3u8?md5=bn0VH2WUcmQElQwivbavXg&expires=1768972878&type=a1&info=errorgettingmacaddress
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2FHD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652334.ts
+http://45.155.226.136:8085/ssn/ar-s/bein-sp-2-H265-extended/mono.m3u8?md5=_nk35opEfXG93bMefAtp3g&expires=1768972930&type=a1&info=errorgettingmacaddress
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="",Bin.3FHD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652335.ts
+http://103.163.132.12:8085/ssn/ar-s/bein-sp-3-H265-extended/mono.m3u8?md5=33qRAQknwqftMJU2Ro1Opw&expires=1768972954&type=a1&info=errorgettingmacaddress
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="",Bin.4FHD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652336.ts
+http://45.155.226.147:8085/ssn/ar-s/bein-sp-4-H265-extended/mono.m3u8?md5=EL5Sn0j9d_7l_hi6Y6QeGg&expires=1768973077&type=a1&info=errorgettingmacaddress
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="",Bin.5FHD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652337.ts
+http://45.155.226.139:8085/ssn/ar-s/bein-sp-5-H265-extended/mono.m3u8?md5=Cu8WKsKgu5Dha2CDbtaggA&expires=1768973127&type=a1&info=errorgettingmacaddress
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="",Bin.6FHD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652338.ts
+http://154.6.189.161:8085/ssn/ar-s/bein-sp-6-H265-extended/mono.m3u8?md5=KVdEiLSaV2mlN_TNVm4KhA&expires=1768973226&type=a1&info=errorgettingmacaddress
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.7FHD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652339.ts
+http://154.6.189.162:8085/ssn/ar-s/bein-sp-7-H265-extended/mono.m3u8?md5=WkjwuDoeeIqYR3mgku-nOw&expires=1768973282&type=a1&info=errorgettingmacaddress
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="",Bin.8FHD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652340.ts
+http://154.6.189.162:8085/ssn/ar-s/bein-p-8-H265-extended/mono.m3u8?md5=59kUob7qtixKf7ueNBibTA&expires=1768973349&type=a1&info=errorgettingmacaddress
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9FHD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652341.ts
-
-
-
-
+http://154.6.189.161:8085/ssn/ar-s/bein-sp-9-H265-extended/mono.m3u8?md5=sgsIVOAJcJ2GuYdhK8Q4Jg&expires=1768973572&type=a1&info=errorgettingmacaddress
