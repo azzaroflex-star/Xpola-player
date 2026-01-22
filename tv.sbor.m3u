@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1FHD
-http://cyou.genral2025.cyou:8080/ha1.css?token=c502d4c935f010f37c22b686b31d75ba&ip=105.96.198.125
+http://185.100.232.227:25461/N8Ehor7L5P/FzPIbP55Mc/22?token=GRoOBRcMFQgUVgBdVl0EVAkGWwQEVlRRUwYDVQAAA1dVWVFVBVxUBQdAThtATEZTWQ48XldAXgVTGhNBF1JBaQtcRF5GXRUeFBYLVFYaDgcPVVoHBldQAlEaE0QNUxEMQAtRXV1QAwcUTkBcS0xRRFYCD2hXBxJeAlMTDgpCX1pOGgkKOwBSX1cMBhsJGgQUFEEKRENAXlkUWl0YRlVaQhBZEgFGXhUKD1tAFRFbW0NWFxFOEVhGczsUHRYBT0dTDEsPCwpGDRBCEUAVEVFHaUoGEENBBwVaBEQTDkYHERpAVQccOwdYXFgHAU1aV1pFGllBDgtXUBVNFFxbCl5HWRBnFg0ARg0QBVZUCgoADBRF
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2FHD
@@ -28,4 +28,5 @@ http://cyou.genral2025.cyou:8080/ha8.css?token=c502d4c935f010f37c22b686b31d75ba&
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9FHD
 http://cyou.genral2025.cyou:8080/ha9.css?token=c502d4c935f010f37c22b686b31d75ba&ip=105.96.198.125
+
 
