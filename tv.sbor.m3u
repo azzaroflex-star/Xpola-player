@@ -1,33 +1,34 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1FHD
-http://lionzhd.com:2095/wadaniab/ww050732/378143
+http://lionzhd.com:2095/wadaniab/ww050732/378148
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2FHD
-http://cyou.genral2025.cyou:8080/ha2.css?token=c502d4c935f010f37c22b686b31d75ba&ip=105.96.198.125
+http://lionzhd.com:2095/wadaniab/ww050732/754794
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="",Bin.3FHD
-http://cyou.genral2025.cyou:8080/ha3.css?token=c502d4c935f010f37c22b686b31d75ba&ip=105.96.198.125
+http://lionzhd.com:2095/wadaniab/ww050732/378146
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="",Bin.4FHD
-http://cyou.genral2025.cyou:8080/ha4.css?token=c502d4c935f010f37c22b686b31d75ba&ip=105.96.198.125
+http://lionzhd.com:2095/wadaniab/ww050732/378145
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="",Bin.5FHD
-http://cyou.genral2025.cyou:8080/ha5.css?token=c502d4c935f010f37c22b686b31d75ba&ip=105.96.198.125
+http://lionzhd.com:2095/wadaniab/ww050732/378144
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="",Bin.6FHD
-http://leez15.deepds.xyz:2095/wadaniab/ww050732/378143?token=R25QY09yVWM1cmdKMkFv
+http://lionzhd.com:2095/wadaniab/ww050732/378143
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.7FHD
-http://cyou.genral2025.cyou:8080/ha7.css?token=c502d4c935f010f37c22b686b31d75ba&ip=105.96.198.125
+http://lionzhd.com:2095/wadaniab/ww050732/378142
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="",Bin.8FHD
-http://cyou.genral2025.cyou:8080/ha8.css?token=c502d4c935f010f37c22b686b31d75ba&ip=105.96.198.125
+http://lionzhd.com:2095/wadaniab/ww050732/378141
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9FHD
 http://cyou.genral2025.cyou:8080/ha9.css?token=c502d4c935f010f37c22b686b31d75ba&ip=105.96.198.125
+
 
 
 
