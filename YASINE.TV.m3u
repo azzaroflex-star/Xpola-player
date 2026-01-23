@@ -26,8 +26,7 @@ https://a1.apk-api.com/api/channel/1431
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9 HD
 https://a1.apk-api.com/api/channel/1432
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="",Bin.6FHD
-http://lionzhd.com:2095/wadaniab/ww050732/378142
+
 
 
 
@@ -91,6 +90,7 @@ http://135.125.109.73:9000/beinsport6_.m3u8
 #EXTINF:-1, Bin sport.7
 
 http://135.125.109.73:9000/beinsport7_.m3u8
+
 
 
 
