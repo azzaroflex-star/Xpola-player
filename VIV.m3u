@@ -1,4 +1,31 @@
-#EXTINF:-1, E
-#EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/azzaroflex-star/Xpola-player/main/EGypt.m3u
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1FHD
+http://cyou.genral2025.forum:8080/sa1.css?token=fef1fd6ef106f63b5e84ce8479cef864&ip=154.121.88.19
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2FHD
+http://cyou.genral2025.forum:8080/sa2.css?token=fef1fd6ef106f63b5e84ce8479cef864&ip=154.121.88.19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="",Bin.3FHD
+http://cyou.genral2025.forum:8080/sa3.css?token=fef1fd6ef106f63b5e84ce8479cef864&ip=154.121.88.19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="",Bin.4FHD
+http://cyou.genral2025.forum:8080/sa4.css?token=fef1fd6ef106f63b5e84ce8479cef864&ip=154.121.88.19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="",Bin.5FHD
+http://cyou.genral2025.forum:8080/sa5.css?token=fef1fd6ef106f63b5e84ce8479cef864&ip=154.121.88.19
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="",Bin.6FHD
+http://cyou.genral2025.forum:8080/sa6.css?token=fef1fd6ef106f63b5e84ce8479cef864&ip=154.121.88.19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.7FHD
+http://cyou.genral2025.forum:8080/sa7.css?token=fef1fd6ef106f63b5e84ce8479cef864&ip=154.121.88.19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="",Bin.8FHD
+http://cyou.genral2025.forum:8080/sa8.css?token=fef1fd6ef106f63b5e84ce8479cef864&ip=154.121.88.19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9FHD
+http://cyou.genral2025.forum:8080/sa9.css?token=fef1fd6ef106f63b5e84ce8479cef864&ip=154.121.88.19
+
 
