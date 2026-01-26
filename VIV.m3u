@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1 4K
+https://sdmax111.provegooott.com/41_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2 4k AZZARO FLEX 
+https://sdmax111.provegooott.com/42_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="",Bin.3 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/43_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="",Bin.4 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/44_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="",Bin.5 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/45_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="",Bin.6 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/46_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.7 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/47_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="",Bin.8 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/48_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/49_.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1FHD
 https://sdmax111.provegooott.com/32_.m3u8
 
@@ -27,6 +66,38 @@ https://sdmax111.provegooott.com/39_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9FHD
 https://sdmax111.provegooott.com/31_.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1 4K
+https://sdmax111.provegooott.com/41_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2 4k AZZARO FLEX 
+https://sdmax111.provegooott.com/42_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="",Bin.3 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/43_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="",Bin.4 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/44_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="",Bin.5 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/45_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="",Bin.6 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/46_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.7 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/47_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="",Bin.8 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/48_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9 4k  AZZARO FLEX
+https://sdmax111.provegooott.com/49_.m3u8
+
 
 
 
