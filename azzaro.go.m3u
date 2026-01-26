@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.ndasat.com/iptv/images/86905_algerie.jpg" group-title="all",DZ:Algerie 1
-http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/427.m3u
+http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/427.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="all",DZ:Algerie 2
 http://iptv.ndasat.xyz:88/live/559684668698871/559684668698871/20738.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.ndasat.com/iptv/images/18351_alg3.png" group-title="all",DZ:Algerie 3
