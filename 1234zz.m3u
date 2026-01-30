@@ -39,7 +39,7 @@ https://a2.apk-api.com/api/channel/1432
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1FHD
-http://cyou.cinema2.vip:8080/sa1.css?token=cc62b20327cc5b5e11360310d290f498&ip=154.244.166.88
+http://cyou.fastes.sbs:8080/ha1.css?token=cc62b20327cc5b5e11360310d290f498&ip=154.244.166.88
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2FHD
@@ -65,6 +65,7 @@ http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652340.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9FHD
 http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/652341.ts
+
 
 
 
