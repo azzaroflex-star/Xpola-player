@@ -2162,3 +2162,114 @@ https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 tvg-id="ZeeTVCanada.ca" tvg-logo="https://i.imgur.com/mARKUZ9.png" group-title="General",Zee TV Canada
 https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc.png" group-title="MBC",AR: MBC 1 4K
+http://lion20.top:8080/live/229815636887/192402289369/45165.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc.png" group-title="MBC",AR.MBC 1 HD
+http://lion20.top:8080/live/229815636887/192402289369/15152.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc.png" group-title="MBC",AR.MBC 1
+http://lion20.top:8080/live/229815636887/192402289369/15143.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC DRAMA 4K
+http://lion20.top:8080/live/229815636887/192402289369/45163.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC MASR DRAMA HD
+http://lion20.top:8080/live/229815636887/192402289369/328601.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC MASR DRAMA 4K
+http://lion20.top:8080/live/229815636887/192402289369/328602.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR.MBC Drama HD
+http://lion20.top:8080/live/229815636887/192402289369/15153.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR.MBC Drama
+http://lion20.top:8080/live/229815636887/192402289369/15137.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR: MBC+ Drama 4K
+http://lion20.top:8080/live/229815636887/192402289369/43679.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC Wanasah 4K
+http://lion20.top:8080/live/229815636887/192402289369/148412.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/DramaPlus.png" group-title="MBC",AR.MBC Drama+ 4k
+http://lion20.top:8080/live/229815636887/192402289369/21160.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr.png" group-title="MBC",AR: MBC MASR 4K
+http://lion20.top:8080/live/229815636887/192402289369/92753.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr.png" group-title="MBC",AR.MBC Masr HD
+http://lion20.top:8080/live/229815636887/192402289369/15134.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr2.png" group-title="MBC",AR: MBC MASR 2 4K
+http://lion20.top:8080/live/229815636887/192402289369/92754.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr2.png" group-title="MBC",AR.MBC Masr 2 HD
+http://lion20.top:8080/live/229815636887/192402289369/15133.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc2.png" group-title="MBC",AR: MBC 2 4K
+http://lion20.top:8080/live/229815636887/192402289369/45168.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc2.png" group-title="MBC",AR.MBC 2 HD
+http://lion20.top:8080/live/229815636887/192402289369/15151.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc2.png" group-title="MBC",AR.MBC 2
+http://lion20.top:8080/live/229815636887/192402289369/15142.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc3.png" group-title="MBC",AR: MBC 3 4K
+http://lion20.top:8080/live/229815636887/192402289369/45143.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc3.png" group-title="MBC",AR.MBC 3 HD
+http://lion20.top:8080/live/229815636887/192402289369/15150.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc3.png" group-title="MBC",AR.MBC 3
+http://lion20.top:8080/live/229815636887/192402289369/15141.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc4.png" group-title="MBC",AR: MBC 4 4K
+http://lion20.top:8080/live/229815636887/192402289369/45164.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc4.png" group-title="MBC",AR.MBC 4 HD
+http://lion20.top:8080/live/229815636887/192402289369/15149.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc4.png" group-title="MBC",AR.MBC 4
+http://lion20.top:8080/live/229815636887/192402289369/15140.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Action.png" group-title="MBC",AR: MBC ACTION 4K
+http://lion20.top:8080/live/229815636887/192402289369/45166.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Action.png" group-title="MBC",AR.MBC Action HD
+http://lion20.top:8080/live/229815636887/192402289369/15154.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Action.png" group-title="MBC",AR.MBC Action
+http://lion20.top:8080/live/229815636887/192402289369/15135.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Bollywood.png" group-title="MBC",AR: MBC BOLLYWOOD 4K
+http://lion20.top:8080/live/229815636887/192402289369/45162.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Bollywood.png" group-title="MBC",AR.MBC Bollywood HD
+http://lion20.top:8080/live/229815636887/192402289369/15364.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Bollywood.png" group-title="MBC",AR.MBC Bollywood
+http://lion20.top:8080/live/229815636887/192402289369/15136.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Persia.png" group-title="MBC",AR: MBC Persian 4K
+http://lion20.top:8080/live/229815636887/192402289369/148411.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC Panorama FM 4K
+http://lion20.top:8080/live/229815636887/192402289369/148413.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcMax.png" group-title="MBC",AR: MBC MAX 4K
+http://lion20.top:8080/live/229815636887/192402289369/45167.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcMax.png" group-title="MBC",AR.MBC Max HD
+http://lion20.top:8080/live/229815636887/192402289369/15139.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcMax.png" group-title="MBC",AR.MBC Max
+http://lion20.top:8080/live/229815636887/192402289369/15138.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Vairty.png" group-title="MBC",AR: MBC+ VARIETY 4K
+http://lion20.top:8080/live/229815636887/192402289369/43681.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Iraq.png" group-title="MBC",AR: MBC IRAQ  4K
+http://lion20.top:8080/live/229815636887/192402289369/92752.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Iraq.png" group-title="MBC",AR.MBC IRAQ HD
+http://lion20.top:8080/live/229815636887/192402289369/14732.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Iraq.png" group-title="MBC",AR: MBC IRAQ
+http://lion20.top:8080/live/229815636887/192402289369/92760.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc5.png" group-title="MBC",AR: MBC 5 4K
+http://lion20.top:8080/live/229815636887/192402289369/92759.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC TOONS 4K
+http://lion20.top:8080/live/229815636887/192402289369/328596.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcElife.png" group-title="MBC",AR: SHAHID RAMADAN 4K
+http://lion20.top:8080/live/229815636887/192402289369/328603.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 1 4K
+http://lion20.top:8080/live/229815636887/192402289369/413799.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 1 HD
+http://lion20.top:8080/live/229815636887/192402289369/413800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 2 4K
+http://lion20.top:8080/live/229815636887/192402289369/413801.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 2 HD
+http://lion20.top:8080/live/229815636887/192402289369/413802.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC POWER 4K
+http://lion20.top:8080/live/229815636887/192402289369/413803.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC POWER HD
+http://lion20.top:8080/live/229815636887/192402289369/413804.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC PREMIUM 4K UHD
+http://lion20.top:8080/live/229815636887/192402289369/413805.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC PLUS 4K
+http://lion20.top:8080/live/229815636887/192402289369/413806.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC PLUS HD
+http://lion20.top:8080/live/229815636887/192402289369/413807.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC FAMILY HD
+http://lion20.top:8080/live/229815636887/192402289369/413808.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC CLOUD TV
+http://lion20.top:8080/live/229815636887/192402289369/413809.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",AR: ARABS GOT TALENT 4K
+http://lion20.top:8080/live/229815636887/192402289369/398935.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcFm.png" group-title="MBC",AR: MBC FM 4K
+http://lion20.top:8080/live/229815636887/192402289369/92755.m3u8
