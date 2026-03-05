@@ -1,8 +1,33 @@
-
-
-
-
-#EXTINF:-1, Dz
-#EXTVLCOPT:http-player-type=webplayer
-
-http://psk-sdk.ddno.us:8080/get.php?username=c0:23:8d:25:3b:f6&password=RDyrVqmVHciDVEs&type=m3u
+#EXTM3U
+#EXTINF:-1 group-title="beIN Sport HD",beIN Global HD
+http://lion20.top:8080/live/229815636887/192402289369/442220.ts
+#EXTINF:-1 group-title="beIN Sport HD",beIN Sport News HD
+http://lion20.top:8080/live/229815636887/192402289369/443146.ts
+#EXTINF:-1 group-title="beIN Sport HD",AZZARO 1 HD
+http://lion20.top:8080/live/229815636887/192402289369/325793.ts
+#EXTINF:-1 group-title="beIN Sport HD",AZZARO 2 HD
+http://lion20.top:8080/live/229815636887/192402289369/325794.ts
+#EXTINF:-1 group-title="beIN Sport HD",AZZARO 3 HD
+http://lion20.top:8080/live/229815636887/192402289369/325795.ts
+#EXTINF:-1 group-title="beIN Sport HD",AZZARO 4 HD
+http://lion20.top:8080/live/229815636887/192402289369/325796.ts
+#EXTINF:-1 group-title="beIN Sport HD",AZZARO 5 HD
+http://lion20.top:8080/live/229815636887/192402289369/325797.ts
+#EXTINF:-1 group-title="beIN Sport HD",AZZARO 6 HD
+http://lion20.top:8080/live/229815636887/192402289369/325798.ts
+#EXTINF:-1 group-title="beIN Sport HD",AZZARO 7 HD
+http://lion20.top:8080/live/229815636887/192402289369/325799.ts
+#EXTINF:-1 group-title="beIN Sport HD",AZZARO 8 HD
+http://lion20.top:8080/live/229815636887/192402289369/325800.ts
+#EXTINF:-1 group-title="beIN Sport HD",AZZARO 9 HD
+http://lion20.top:8080/live/229815636887/192402289369/325801.ts
+#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 1 HD English
+http://lion20.top:8080/live/229815636887/192402289369/318217.ts
+#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 2 HD English
+http://lion20.top:8080/live/229815636887/192402289369/318218.ts
+#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 1 HD Frensh
+http://lion20.top:8080/live/229815636887/192402289369/319437.ts
+#EXTINF:-1 group-title="beIN Sport HD",beIN Sport 2 HD Frensh
+http://lion20.top:8080/live/229815636887/192402289369/319438.ts
+#EXTINF:-1 group-title="beIN Sport HD",beIN Sport NBA HD
+http://lion20.top:8080/live/229815636887/192402289369/318219.ts
