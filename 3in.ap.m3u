@@ -3076,3 +3076,20 @@ http://lion20.top:8080/live/229815636887/192402289369/361490.m3u8
 http://lion20.top:8080/live/229815636887/192402289369/361491.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="FRANCE",FR: EQUIDIA LIVE HEVC
 http://lion20.top:8080/live/229815636887/192402289369/361492.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! horror
+http://lion20.top:8080/live/229815636887/192402289369/434603.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Cinema
+http://lion20.top:8080/live/229815636887/192402289369/434605.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Kids
+http://lion20.top:8080/live/229815636887/192402289369/434607.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! marvel
+http://lion20.top:8080/live/229815636887/192402289369/434609.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! El Dahee7
+http://lion20.top:8080/live/229815636887/192402289369/434611.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Zaman
+http://lion20.top:8080/live/229815636887/192402289369/434612.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Masr7yat
+http://lion20.top:8080/live/229815636887/192402289369/434613.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Action
+http://lion20.top:8080/live/229815636887/192402289369/434614.m3u8
