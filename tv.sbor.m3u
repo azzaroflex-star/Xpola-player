@@ -533,50 +533,7 @@ http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/151.m3u8
 http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/1141.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/tunisia/watania_tn_1.png" group-title="TUNISIA",TUN: Tunisia NAT 1 FHD
 http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/70326.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_8_tamazight.png" group-title="MOROCO & LIBYA",MOR: TV Tamazight Maroc
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/127.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/2m_monde.png" group-title="MOROCO & LIBYA",MOR: 2M Maroc
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/170.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_3_arriadya.png" group-title="MOROCO & LIBYA",MOR: Arriadhia
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/119.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_6_assadissa.png" group-title="MOROCO & LIBYA",MOR: Assadissa HD
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/118.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/medi1_tv.png" group-title="MOROCO & LIBYA",MOR: Medi1 TV
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/1802.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://wikipedia.ma/wp-content/uploads/2015/06/al_aoula.png" group-title="MOROCO & LIBYA",MOR: Al Oula Maroc HD
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOROCO & LIBYA",MOR: M24 MAROC
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/155072.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOROCO & LIBYA",MOR: CHADA TV
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/155071.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/2m_monde.png" group-title="MOROCO & LIBYA",MOR HQ:  2M TV
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/70286.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_1_tvm.png" group-title="MOROCO & LIBYA",MOR HQ:  Al Aoula Inter
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/70289.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_1_tvm.png" group-title="MOROCO & LIBYA",MOR HQ:  Al Aoula Inter HD
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/70290.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_5_almaghribya.png" group-title="MOROCO & LIBYA",MOR HQ:  Al Maghribia
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/70292.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_3_arriadya.png" group-title="MOROCO & LIBYA",MOR HQ:  Arryadia
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/70293.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_6_assadissa.png" group-title="MOROCO & LIBYA",MOR HQ:  Assadissa
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/70294.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_4_athaqafia.png" group-title="MOROCO & LIBYA",MOR HQ:  Athaqafia
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/70295.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.lynxcontents.click/Logo/moroco/snrt_1_laayoune.png" group-title="MOROCO & LIBYA",MOR HQ:  Laayoune TV
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/70312.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOROCO & LIBYA",Libya: AL Jamahiria TV
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/216238.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOROCO & LIBYA",Libya: LIBYA SPORT 1 HD
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/155153.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://f.cdnrdn.com/chlogo/tanasuh.png" group-title="MOROCO & LIBYA",Libya: Tanasuh TV
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/3026.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/9ikDiuKFvt8tymCu9nEdam6vr_XI4ayiNNOj3zMPY_N1X7eDjWWMpktP4EJLBTSfrZ8=s180" group-title="MOROCO & LIBYA",Libya: Libya Al Hadath
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/3350.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-ZTuB6AdtCYk/XGxVRHiRTrI/AAAAAAAACNQ/nBLciud3MYcf2N9ZqU6lxXAbzXp8pVyNwCLcBGAs/s320/Sans%2Btitre.jpg" group-title="MOROCO & LIBYA",Libya: Al Salam
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/3019.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs.dreamstime.com/z/conception-de-logo-tv-137073350.jpg" group-title="MOROCO & LIBYA",Libya: Libya Al Ahrar
-http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/2639.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-news-qa.png" group-title="BEIN HD & SD",beIN News HD (S1)
 http://ibo.lynxiptv.com/live/2761024194/69b8a121bfaaa/67374.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="BEIN HD & SD",beIN HD (S1)
