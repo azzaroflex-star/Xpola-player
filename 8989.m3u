@@ -558,38 +558,8 @@ http://goiptv.co:8080/topsat1976/WLjDyxOzeG/9284
 http://goiptv.co:8080/topsat1976/WLjDyxOzeG/9497
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE CINEMA/DRAMA",|AR| ZEE AFLAM
 http://goiptv.co:8080/topsat1976/WLjDyxOzeG/9310
-#EXTINF:-1 tvg-id="" tvg-logo="http://store6.up-00.com/2017-05/149369571983382.jpg" group-title="MA | MOROCCO TV",Al Aoula Maroc  HD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/794
-#EXTINF:-1 tvg-id="" tvg-logo="http://store6.up-00.com/2017-05/149369571972291.jpg" group-title="MA | MOROCCO TV",Al Aoula Maroc
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/106
-#EXTINF:-1 tvg-id="" tvg-logo="http://store6.up-00.com/2017-05/149369584210481.png" group-title="MA | MOROCCO TV",2M Maroc
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/107
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MA | MOROCCO TV",2M TV HD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/69598
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MA | MOROCCO TV",Aflam 7 HD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/62949
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MA | MOROCCO TV",MBC5
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/24712
-#EXTINF:-1 tvg-id="" tvg-logo="http://store6.up-00.com/2017-05/149369584255224.jpg" group-title="MA | MOROCCO TV",Medi 1
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/110
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MA | MOROCCO TV",M24 MAROC
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/25456
-#EXTINF:-1 tvg-id="" tvg-logo="http://store4.up-00.com/2017-09/150507722260431.jpg" group-title="MA | MOROCCO TV",TELE MAROC FUL HD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/2494
-#EXTINF:-1 tvg-id="" tvg-logo="https://b.top4top.net/p_6810izyt1.jpg" group-title="MA | MOROCCO TV",CHADA TV
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/2875
-#EXTINF:-1 tvg-id="" tvg-logo="http://store6.up-00.com/2017-05/149369584270795.png" group-title="MA | MOROCCO TV",Almaghribia HD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/108
-#EXTINF:-1 tvg-id="" tvg-logo="http://store6.up-00.com/2017-05/149369584238853.jpg" group-title="MA | MOROCCO TV",Tamazight HD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/1909
-#EXTINF:-1 tvg-id="" tvg-logo="http://store6.up-00.com/2017-05/14936960799151.jpg" group-title="MA | MOROCCO TV",Assadissa HD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/1907
-#EXTINF:-1 tvg-id="" tvg-logo="https://f.top4top.net/p_652z6in21.jpg" group-title="MA | MOROCCO TV",ARRYADIA HD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/2807
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MA | MOROCCO TV",Laayoune FHD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/29289
-#EXTINF:-1 tvg-id="" tvg-logo="http://store6.up-00.com/2017-05/149369608002652.png" group-title="MA | MOROCCO TV",AR: TNT Arryadia HD
-http://goiptv.co:8080/topsat1976/WLjDyxOzeG/109
+
+#EXTINFl
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARAB Nilesat IPTV",AR: A1 Jordan
 http://goiptv.co:8080/topsat1976/WLjDyxOzeG/6415
 #EXTINF:-1 tvg-id="" tvg-logo="http://store1.up-00.com/2017-09/150608383787851.jpg" group-title="ARAB Nilesat IPTV",AR: ACHARIQA
