@@ -1,7 +1,184 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
-https://a1.apk-api.com/api/channel/52
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://a1.apk-api.com/api/channel/52
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://a1.apk-api.com/api/channel/52
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 4K |h265|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407872.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/924.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 FHD |1080|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407884.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/937.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 HD |720|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407896.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/893.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/897.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 Premium FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/921.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 Premium HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/934.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 Premium HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/886.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 Premium LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/894.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 Premium SD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/944.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 Premium SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/874.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407908.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 1 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/877.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 4K |h265|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407873.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/925.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 FHD |1080|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407885.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/938.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 HD |720|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407897.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/892.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/898.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 Premium FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/922.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 Premium HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/935.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 Premium HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/885.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 Premium LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/895.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 Premium SD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/945.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 Premium SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/875.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407909.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 2 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/878.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 4K |h265|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407874.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/926.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 FHD |1080|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407886.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/939.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 HD |720|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407898.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/891.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/899.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 Premium FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/923.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 Premium HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/936.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 Premium HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/884.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 Premium LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/896.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 Premium SD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/946.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 Premium SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/876.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407910.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 3 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/879.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 4 4K |h265|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407875.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 4 FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/927.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 4 FHD |1080|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407887.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 4 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/940.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 4 HD |720|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407899.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 4 HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/890.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 4 LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/900.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 4 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407911.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 4 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/880.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 5 4K |h265|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407876.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 5 FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/928.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 5 FHD |1080|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407888.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 5 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/941.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 5 HD |720|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407900.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 5 HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/889.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 5 LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/901.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 5 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407912.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 5 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/881.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 6 4K |h265|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407877.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 6 FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/929.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 6 FHD |1080|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407889.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 6 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/942.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 6 HD |720|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407901.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 6 HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/888.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 6 LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/902.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 6 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407913.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 6 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/882.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 7 4K |h265|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407878.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 7 FHD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/930.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 7 FHD |1080|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407890.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 7 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/943.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 7 HD |720|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407902.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 7 HEVC HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/887.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 7 LOW HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/903.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 7 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407914.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 7 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/883.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 8 4K |h265|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407879.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 8 FHD |1080|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407891.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 8 HD |720|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407903.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 8 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407915.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 9 4K |h265|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407880.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 9 FHD |1080|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407892.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 9 HD |720|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407904.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports 9 SD |480|
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/407916.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports English 1 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/3564.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports English 2 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/3565.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BEIN Sports English 3 HD
+http://faucontv.live:8080//live/live:iptvtree/CPAjp696cG/3566.ts
