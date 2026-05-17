@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1 HD
-http://g-shop-api.genral2025.sbs:8080/sa2.html
+http://g-shop-api.genral2025.lat:8080/sa2_master.html?token=4f66fe9765758107e007d5c93fe34471&ip=154.121.27.165
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2 HD
