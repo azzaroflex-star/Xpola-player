@@ -1,39 +1,81 @@
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://f.top4top.io/p_36178fiuy9.png" group-title="",SP : bien sport GLOBAL
-http://tayaar.xyz:80/live/464748339/637473833/484979.ts
-EXTINF:-1 tvg-id="" tvg-logo="https://f.top4top.io/p_36178fiuy9.png" group-title="",SP : bien XTTRA 1
-http://tayaar.xyz:80/live/464748339/637473833/158322.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entv_dz.png" group-title="🇩🇿ALGERIA", ALGERIE 6
-http://app.gogo-tv.com:2086/live/319957061G/27674/132907.m3u8
-EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/666770935.jpg" group-title="",Al Kass Sports1
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/666770935.jpg" group-title="",Al Kass Sports2
-http://tayaar.xyz:80/live/464748339/637473833/387083.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/666770935.jpg" group-title="",Al Kass Sports3
-http://tayaar.xyz:80/live/464748339/637473833/387082.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/666770935.jpg" group-title="",Al Kass Sports4
-http://tayaar.xyz:80/live/464748339/637473833/387081.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://h.top4top.io/p_3617sq2gz9.png" group-title="",SP : DUBAI SPORT 1 HD
-http://tayaar.xyz:80/live/464748339/637473833/168913.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://h.top4top.io/p_3617sq2gz9.png" group-title="",SP : DUBAI SPORT 2 HD
-http://tayaar.xyz:80/live/464748339/637473833/168912.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://h.top4top.io/p_3617sq2gz9.png" group-title="",SP : DUBAI SPORT 3 HD
-http://tayaar.xyz:80/live/464748339/637473833/168911.ts
-EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/175815976.jpg" group-title="",SP : AD SPORT 1 HD
-http://tayaar.xyz:80/live/464748339/637473833/168917.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/11/26/03/175815976.jpg" group-title="",SP : AD SPORT 2 HD
-http://tayaar.xyz:80/live/464748339/637473833/314995.ts
-#EXTINF:-1, AR
-#EXTVLCOPT:http-player-type=m3u
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license=€69€8#85€86€96€
-
-https://raw.githubusercontent.com/azzaroflex-star/Xpola-player/main/AR.m3u
-
-
-
-
-
-
-
-
+#EXTM3U
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN 4K -
+http://blue4k.me:8080/live/161570149434/296613544016/574396.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN HD  أهم مبارايات اليوم
+http://blue4k.me:8080/live/161570149434/296613544016/393121.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SD 2 أهم مبارايات اليوم
+http://blue4k.me:8080/live/161570149434/296613544016/573182.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS NEWS HD
+http://blue4k.me:8080/live/161570149434/296613544016/347519.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS NEWS #
+http://blue4k.me:8080/live/161570149434/296613544016/546700.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 1  SD
+http://blue4k.me:8080/live/161570149434/296613544016/77.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS  1   HD
+http://blue4k.me:8080/live/161570149434/296613544016/125555.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORT 1 FHD
+http://blue4k.me:8080/live/161570149434/296613544016/32824.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 1 #
+http://blue4k.me:8080/live/161570149434/296613544016/546691.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 2 SD
+http://blue4k.me:8080/live/161570149434/296613544016/76.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 2  HD
+http://blue4k.me:8080/live/161570149434/296613544016/125556.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 2 #
+http://blue4k.me:8080/live/161570149434/296613544016/546692.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 3  SD
+http://blue4k.me:8080/live/161570149434/296613544016/75.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 3  HD
+http://blue4k.me:8080/live/161570149434/296613544016/125557.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 3 #
+http://blue4k.me:8080/live/161570149434/296613544016/546693.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 4 SD
+http://blue4k.me:8080/live/161570149434/296613544016/84.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 4 HD
+http://blue4k.me:8080/live/161570149434/296613544016/125548.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 4 #
+http://blue4k.me:8080/live/161570149434/296613544016/546694.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 5 SD
+http://blue4k.me:8080/live/161570149434/296613544016/125549.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 5 HD
+http://blue4k.me:8080/live/161570149434/296613544016/83.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 5 #
+http://blue4k.me:8080/live/161570149434/296613544016/546695.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 6 SD
+http://blue4k.me:8080/live/161570149434/296613544016/82.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 6 HD
+http://blue4k.me:8080/live/161570149434/296613544016/125550.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 6 #
+http://blue4k.me:8080/live/161570149434/296613544016/546696.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 7 SD
+http://blue4k.me:8080/live/161570149434/296613544016/81.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 7 FHD B
+http://blue4k.me:8080/live/161570149434/296613544016/80.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 7 HD
+http://blue4k.me:8080/live/161570149434/296613544016/125551.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 7 #
+http://blue4k.me:8080/live/161570149434/296613544016/546697.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 8 SD
+http://blue4k.me:8080/live/161570149434/296613544016/79.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 8 HD
+http://blue4k.me:8080/live/161570149434/296613544016/125553.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 8 #
+http://blue4k.me:8080/live/161570149434/296613544016/546698.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 9 SD
+http://blue4k.me:8080/live/161570149434/296613544016/78.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 9  HD
+http://blue4k.me:8080/live/161570149434/296613544016/125554.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS 9 #
+http://blue4k.me:8080/live/161570149434/296613544016/546699.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS NBA
+http://blue4k.me:8080/live/161570149434/296613544016/125563.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORT EN 1 SD
+http://blue4k.me:8080/live/161570149434/296613544016/74.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORT EN 2 SD
+http://blue4k.me:8080/live/161570149434/296613544016/32825.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS  Fr 1 SD
+http://blue4k.me:8080/live/161570149434/296613544016/60367.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS FR 2 SD
+http://blue4k.me:8080/live/161570149434/296613544016/60368.ts
+#EXTINF:-1 group-title="|SP| ⚽ BEIN SPORTS SD HD ",BEIN SPORTS FR 3 SD
+http://blue4k.me:8080/live/161570149434/296613544016/60369.ts
