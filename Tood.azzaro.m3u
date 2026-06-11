@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1FHD
-http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460836.ts
+http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460839.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2FHD
