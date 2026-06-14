@@ -14,3 +14,5 @@ https://linkjust.com/nhu2yu
 #EXTINF:-1, AF
 #EXTVLCOPT:http-player-type=m3u
 https://oma-server.site/test/local/bein1/index.m3u8
+#EXTINF:-1, Tood
+https://m3uextractor.indexiptv212.workers.dev/download/acfc50bf-f2c7-4866-9ba0-60cb3acb67b4/Live_beIN%20MAX%204K%20%D9%83%D8%A7%D8%B3%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.m3u8
