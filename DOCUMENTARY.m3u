@@ -1,1 +1,3 @@
-#EXTM3U #EXTINF:-1 group-title="AR| ALGERIA",DZ - A1 Alegria HD http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/12
+#EXTM3U
+#EXTINF:1 tvg-name="First Channel" tvg-logo="https://raw.githubusercontent.com/azzaroflex-star/Xpola-player/main/tv.sbor.m3u" group-title="First Category",First Channel
+http://example.m3u
