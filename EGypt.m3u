@@ -1,36 +1,151 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="AlfathSonnahTV.eg" tvg-logo="https://i.imgur.com/7VYJStp.png" group-title="General",Alfath Sonnah TV
-https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
-#EXTINF:-1 tvg-id="AlGhadTV.eg" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="General",Al Ghad TV
-https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
-#EXTINF:-1 tvg-id="AlMasriyah.eg" tvg-logo="https://i.imgur.com/wTeOM2J.png" group-title="General",Al Masriyah
-https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
-#EXTINF:-1 tvg-id="AlShoub.eg" tvg-logo="https://alshoub.tv/wp-content/uploads/2023/09/logo@2x-1-1.png" group-title="General",AlShoub
-https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8
-#EXTINF:-1 tvg-id="CopticTV.eg" tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png" group-title="General",Coptic TV
-https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="General",El Radio 9090 FM
-https://9090video.mobtada.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="General",Huda TV
-https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-logo="https://i.imgur.com/zojMTP9.png" group-title="General",Koogi TV
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC1Egypt.eg" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 Egypt
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="General",MBC Masr 2
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="General",MBC Masr
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-id="MixHollywood.eg" tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="General",Mix Hollywood
-https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="General",NogoumFMTV
-https://nogoumtv.nrpstream.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PNCDrama.eg" tvg-logo="https://i.imgur.com/Hg34mg3.png" group-title="General",PNC Drama
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="General",Rotana Cinema Egypt
-https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="General",Watan TV
-https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
-
-
+#EXTINF:-1 group-title="EGYPT",AR: EGYPTIAN TV 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413810.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALMASRYIA 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413812.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALOULA 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413814.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALTHANYA HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413816.ts
+#EXTINF:-1 group-title="EGYPT",AR: ON TV E 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413817.ts
+#EXTINF:-1 group-title="EGYPT",AR: ON TV Drama
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413819.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALKAHERA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413820.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALKANAL
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413821.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALASKANDRIA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413822.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALDELTA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413823.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALSA3EED
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413824.ts
+#EXTINF:-1 group-title="EGYPT",AR: TEBA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413825.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALKAHERA WAL NAS
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413826.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALKAHERA WAL NAS 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413827.ts
+#EXTINF:-1 group-title="EGYPT",AR: EXTRA LIVE 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413828.ts
+#EXTINF:-1 group-title="EGYPT",AR: EXTRA NEWS 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413830.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALQAHERA NEWS 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413831.ts
+#EXTINF:-1 group-title="EGYPT",AR: ISC TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413833.ts
+#EXTINF:-1 group-title="EGYPT",AR: DRAMA 1HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413834.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALNAHAR CINEMA HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413835.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALNAHAR DRAMA HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413836.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALNAHAR
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413837.ts
+#EXTINF:-1 group-title="EGYPT",AR: CBC 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413838.ts
+#EXTINF:-1 group-title="EGYPT",AR: CBC DRAMA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413840.ts
+#EXTINF:-1 group-title="EGYPT",AR: CBC SOFRA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413841.ts
+#EXTINF:-1 group-title="EGYPT",AR: AL HAYAT 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413842.ts
+#EXTINF:-1 group-title="EGYPT",AR: AL HAYAT MUSALSALAT HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413844.ts
+#EXTINF:-1 group-title="EGYPT",AR: AL HAYAT 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413845.ts
+#EXTINF:-1 group-title="EGYPT",AR: DMC 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413846.ts
+#EXTINF:-1 group-title="EGYPT",AR: DMC DRAMA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413848.ts
+#EXTINF:-1 group-title="EGYPT",AR: DMC MASRAHEYAT
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413849.ts
+#EXTINF:-1 group-title="EGYPT",AR: SADA ELBALAD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413850.ts
+#EXTINF:-1 group-title="EGYPT",AR: SADA ELBALAD 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413851.ts
+#EXTINF:-1 group-title="EGYPT",AR: Sada ElBalad Drama
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413852.ts
+#EXTINF:-1 group-title="EGYPT",AR: MIX
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413853.ts
+#EXTINF:-1 group-title="EGYPT",AR: MIX BEL ARABY
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413854.ts
+#EXTINF:-1 group-title="EGYPT",AR: ELMEHWAR 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413855.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALSHAOUB TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413856.ts
+#EXTINF:-1 group-title="EGYPT",AR: MADRASETNA 1TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413857.ts
+#EXTINF:-1 group-title="EGYPT",AR: MADRASETNA 2TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413858.ts
+#EXTINF:-1 group-title="EGYPT",AR: MADRASETNA 3TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413859.ts
+#EXTINF:-1 group-title="EGYPT",AR: NILE CINEMA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413860.ts
+#EXTINF:-1 group-title="EGYPT",AR: NILE COMEDY
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413861.ts
+#EXTINF:-1 group-title="EGYPT",AR: NILE CULTURE
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413862.ts
+#EXTINF:-1 group-title="EGYPT",AR: NILE NEWS HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413863.ts
+#EXTINF:-1 group-title="EGYPT",AR: NILE LIFE
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413865.ts
+#EXTINF:-1 group-title="EGYPT",AR: NILE FAMILY
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413866.ts
+#EXTINF:-1 group-title="EGYPT",AR: NILE TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413867.ts
+#EXTINF:-1 group-title="EGYPT",AR: NILE DRAMA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413868.ts
+#EXTINF:-1 group-title="EGYPT",AR: ETC TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413869.ts
+#EXTINF:-1 group-title="EGYPT",AR: CNB TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413870.ts
+#EXTINF:-1 group-title="EGYPT",AR: Panorama Drama
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413871.ts
+#EXTINF:-1 group-title="EGYPT",AR: Panorama Drama 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413872.ts
+#EXTINF:-1 group-title="EGYPT",AR: Panorama Film
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413873.ts
+#EXTINF:-1 group-title="EGYPT",AR: Panorama Food
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413874.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALSHAMS
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413875.ts
+#EXTINF:-1 group-title="EGYPT",AR: CIMA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413876.ts
+#EXTINF:-1 group-title="EGYPT",AR: MASPERO ZAMAN
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413877.ts
+#EXTINF:-1 group-title="EGYPT",AR: MISR ELBALAD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413878.ts
+#EXTINF:-1 group-title="EGYPT",AR: MISR QURAN KAREEM
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413879.ts
+#EXTINF:-1 group-title="EGYPT",AR: MISR ALZERAAEYA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413880.ts
+#EXTINF:-1 group-title="EGYPT",AR: MEKAMEKEEN TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413881.ts
+#EXTINF:-1 group-title="EGYPT",AR: WATAN TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413882.ts
+#EXTINF:-1 group-title="EGYPT",AR: MOSARAA1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413883.ts
+#EXTINF:-1 group-title="EGYPT",AR: MIX ONE
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413884.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALHYAH ALAAN TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413885.ts
+#EXTINF:-1 group-title="EGYPT",AR: AL NADA TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413886.ts
+#EXTINF:-1 group-title="EGYPT",AR: El Sharq TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413887.ts
+#EXTINF:-1 group-title="EGYPT",AR: HYA TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413888.ts
+#EXTINF:-1 group-title="EGYPT",AR: ALSAKHRA TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413889.ts
+#EXTINF:-1 group-title="EGYPT",AR: TEN
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413890.ts
+#EXTINF:-1 group-title="EGYPT",AR: TOP DRAMA
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413891.ts
+#EXTINF:-1 group-title="EGYPT",AR: ELMOLED
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413892.ts
+#EXTINF:-1 group-title="EGYPT",AR: EL MAHROUSA TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413893.ts
+#EXTINF:-1 group-title="EGYPT",AR: Nile EDUC 1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/413894.ts
