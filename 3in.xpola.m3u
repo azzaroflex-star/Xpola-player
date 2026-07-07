@@ -1,8 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin max.1FHD
-http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/460861.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin max.2FHD
-http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/460864.ts
-
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 1 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460861.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 2 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460864.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 3 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460867.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 4 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460870.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 5 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460873.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 6 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460876.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460862.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460865.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 3 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460868.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 4 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460871.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 5 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460874.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 6 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460877.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 1 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460863.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 2 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460866.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 3 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460869.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 4 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460872.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 5 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460875.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 6 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460878.ts
