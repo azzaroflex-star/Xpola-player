@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:1 tvg-name="First Channel" tvg-logo="https://raw.githubusercontent.com/azzaroflex-star/Xpola-player/main/tv.sbor.m3u" group-title="First Category",First Channel
-http://example.m3u
+#EXTINF:-1 group-title="DOCUMENTARY HD",KSA.ASHARQ DISCOVERY 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/328667.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/ksa.png" group-title="DOCUMENTARY HD",KSA.ASHARQ DOCUMENTARY 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/328666.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: YEMEN DOCUMENTARY
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/399450.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: ALWATHIQIA 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/399451.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: NAT GEOGRAPHIC 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/399452.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: NATURE 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/399453.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: National Geographic Abu Dhabi 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/399455.ts
