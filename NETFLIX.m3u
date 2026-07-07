@@ -1,34 +1,61 @@
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-HORROR MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136283.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-FANTASY MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136284.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-DOCUMENTARY MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136285.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-ACTION MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136286.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-BIOGRAPHY MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136287.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-ANIMATION MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136288.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-ADVENTURE MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136289.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-ACTION COMEDY MOVIED HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136290.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-ACTION ADVENTURE MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136291.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-ACTION-CRIME MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136292.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-SPORT MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136293.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-THRILLER HORROR MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136294.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-ROMANCE MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136295.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-CRIME MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136296.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-COMEDY MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136297.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NETFLIX-COMEDY ROMANCE MOVIES HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/136298.ts
-
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276011.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276012.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 3
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276013.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 4
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276014.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 5
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276015.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 6
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276016.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 7
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276017.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 8
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276018.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix action HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276019.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix anim HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276020.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix Comedy HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276021.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix drama HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276022.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix family HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276023.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix fantasy HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276024.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix horror HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276025.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix mystrey HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276026.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix Sci-fi HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276027.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix Thriller HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276028.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix War HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276029.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix NF HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/276030.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 1 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146568.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 2 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146569.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 3 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146570.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 4 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146571.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 5 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146572.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 6 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146573.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 7 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146574.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 8 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146575.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 9 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146576.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 10 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/146577.ts
