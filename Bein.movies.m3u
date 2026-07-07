@@ -1,50 +1,67 @@
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN MOVIES 4K 1
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274145.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN MOVIES 4K 2
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274146.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN MOVIES 4K 3
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274147.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN MOVIES 4K 4
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274148.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SERIES 4K 1
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274149.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN SERIES 4K 2
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274150.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",beIN DRAMA 4K
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274151.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein FOX MOVIES 4K
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274152.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein FOX MOV ACTION 4K
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274153.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein FOX LIFE 4K
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274154.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein BBC EARTH 4K
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274155.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein GORMENT 4K
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274156.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein FATAFEAT 4K
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274157.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein BARAEAM 4K
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274158.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein JEEM 4K
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274159.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Drama HD1
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274205.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Fox Movies HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274206.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Fox Action Movies HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274207.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Fox Life HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274208.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein jeem HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274209.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Baraem HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274210.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein BBC Earth HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274211.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Fatafeat
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274212.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bein Gourmet HD
-http://dhoomtv.xyz/live/8zpo3GsVY7/beneficial2concern/274213.ts
-
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319672.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319673.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 3
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319674.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 4
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319675.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319676.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319677.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN DRAMA 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319678.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX MOVIES 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319679.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX MOV ACTION 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319680.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX LIFE 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319681.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BBC EARTH 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319682.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN GORMENT 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319683.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FATAFEAT 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319684.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BARAEAM 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319685.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN JEEM 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319686.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319687.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319688.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 3 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319689.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 4 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319690.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Series 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319691.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Series 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319692.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Drama 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319693.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Fox Movies HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319694.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Fox Action Movies HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319695.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Gourmet HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319696.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN jeem HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319697.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Baraem HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319698.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Fox Life HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319700.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Nat Geo HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319701.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Nat geo Wild HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319702.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Star World HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319703.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Star Movies HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319704.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BBC Earth HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319705.ts
