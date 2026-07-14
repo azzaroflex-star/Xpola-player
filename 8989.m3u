@@ -1,103 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box Aflam 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97509.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box Aflam 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97510.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box ACTION 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97511.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box ACTION 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97512.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box HORROR
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97513.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box CLASSIC
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97514.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Action 1 H265
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97515.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Action 2 H265
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97516.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Aflam 1 H265
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97517.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Aflam 2 H265
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97518.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Kids H265
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97519.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Horror H265
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97520.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA masr7yat H265
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97521.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA ZaMaN H265
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97522.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43617.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43616.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA3
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43615.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA4
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43614.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA5
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43613.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA6
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43612.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA7
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43611.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA8
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43610.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA9
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43609.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA10
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43608.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH action 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43668.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH action 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43667.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH FALAM 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43658.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH FALAM 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43657.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH FALAM 3
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43656.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH HISTORY
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43661.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH horror 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43666.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH horror 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43665.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH masr7yat
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43651.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH Masrah Masr
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43652.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH Tom Jerry
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43649.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH WWE
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43650.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH ZaMaN 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43654.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH ZaMaN 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43653.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Majestic action1 hd
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43637.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Majestic arabic 2hd
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43638.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43627.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43626.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA3
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43625.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA4
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43624.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA5
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43623.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA6
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43622.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA7
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43621.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA8
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43620.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA9
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43619.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA10
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43618.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: beoutQ AFALAM HD H265
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/43694.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin.1 HD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/460861.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="",Bin.2 HD
+https://a1.apk-api.com/api/channel/1425
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="",Bin.3 HD
+https://a1.apk-api.com/api/channel/1426
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="",Bin.4 HD
+https://a1.apk-api.com/api/channel/1427
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="",Bin.5 HD
+https://a1.apk-api.com/api/channel/1428
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="",Bin.6 HD
+https://a1.apk-api.com/api/channel/1429
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="",Bin.7 HD
+https://a1.apk-api.com/api/channel/1430
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="",Bin.8 HD
+https://a1.apk-api.com/api/channel/1431
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="",Bin.9 HD
+https://a1.apk-api.com/api/channel/1432
