@@ -1,21 +1,13 @@
-
-#EXTINF:-1, SPORT ARABIC
-#EXTVLCOPT:http-player-type=m3u
-http://141.98.115.53/get.php?username=vibertv96&password=rdvewfds&type=m3u
-#EXTINF:-1, Arabia Saudi
-#EXTVLCOPT:http-player-type=m3u
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1, AFC
-#EXTVLCOPT:http-player-type=m3u
-https://linkjust.com/nhu2yu
-#EXTINF:-1, AFC
-#EXTVLCOPT:http-player-type=m3u
-https://linkjust.com/nhu2yu
-#EXTINF:-1, AF
-#EXTVLCOPT:http-player-type=m3u
-https://oma-server.site/test/local/bein1/index.m3u8
-#EXTINF:-1, Tood
-https://m3uextractor.indexiptv212.workers.dev/download/acfc50bf-f2c7-4866-9ba0-60cb3acb67b4/Live_beIN%20MAX%204K%20%D9%83%D8%A7%D8%B3%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.m3u8
-#EXTINF:-1, Bin max
-#EXTVLCOPT:http-player-type=m3u
-https://m3uextractor.indexiptv212.workers.dev/download/acfc50bf-f2c7-4866-9ba0-60cb3acb67b4/Live_beIN%20MAX%204K%20%D9%83%D8%A7%D8%B3%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 1 4K
+http://line.spainott.site/live/CAKVQXPUOO/EXGGQMQCZR/1766251.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 2 4K
+http://line.spainott.site/live/CAKVQXPUOO/EXGGQMQCZR/1766250.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 3 4K
+http://line.spainott.site/live/CAKVQXPUOO/EXGGQMQCZR/1766249.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 4 4K
+http://line.spainott.site/live/CAKVQXPUOO/EXGGQMQCZR/1766248.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 5 4K
+http://line.spainott.site/live/CAKVQXPUOO/EXGGQMQCZR/1766247.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 6 4K
+http://line.spainott.site/live/CAKVQXPUOO/EXGGQMQCZR/1766246.ts
