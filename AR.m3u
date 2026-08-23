@@ -1,95 +1,459 @@
 #EXTM3U
-#EXTINF:-1 group-title="beIN MAX 4K كاس العالم",beIN Sports Max 1 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460861.ts
-#EXTINF:-1 group-title="beIN MAX 4K كاس العالم",beIN Sports Max 2 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460864.ts
-#EXTINF:-1 group-title="beIN MAX 4K كاس العالم",beIN Sports Max 3 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460867.ts
-#EXTINF:-1 group-title="beIN MAX 4K كاس العالم",beIN Sports Max 4 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460870.ts
-#EXTINF:-1 group-title="beIN MAX 4K كاس العالم",beIN Sports Max 5 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460873.ts
-#EXTINF:-1 group-title="beIN MAX 4K كاس العالم",beIN Sports Max 6 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460876.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 1 4K
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 2 4K
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 3 4K
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181667.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 4 4K
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181670.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 5 4K
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181673.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 6 4K
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181676.ts
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418111.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 HD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418112.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 SD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418113.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 2 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418114.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 2 HD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418115.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 2 SD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418116.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 3 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418117.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 3 HD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418118.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 3 SD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418119.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 4 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418120.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 4 HD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418121.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 4 SD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418122.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 5 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418123.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 5 HD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418124.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 5 SD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418125.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418126.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 HD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418127.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 SD
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/418128.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 7 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/433739.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 8 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/433740.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 9 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/433741.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 10 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/433742.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan F1 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/433743.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan WWE 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/433744.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan UFC 4K
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/433745.ts
-
+#EXTINF:-1 tvg-logo="https://b.top4top.io/p_3618evdsl0.jpg" group-title="بين سبورت 1080p",بين سبورت 1 1080p
+https://go-tv.site:443/live/gotv/12345/15.ts
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_362103am30.jpg" group-title="بين سبورت 1080p",بين سبورت 2 1080p
+https://go-tv.site:443/live/gotv/12345/16.ts
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3621x9iaa0.jpg" group-title="بين سبورت 1080p",بين سبورت 3 1080p
+https://go-tv.site:443/live/gotv/12345/17.ts
+#EXTINF:-1 tvg-logo="https://h.top4top.io/p_36210gt9c0.jpg" group-title="بين سبورت 1080p",بين سبورت 4 1080p
+https://go-tv.site:443/live/gotv/12345/18.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3621rwsld0.jpg" group-title="بين سبورت 1080p",بين سبورت 5 1080p
+https://go-tv.site:443/live/gotv/12345/19.ts
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_36210foxu0.jpg" group-title="بين سبورت 1080p",بين سبورت 6 1080p
+https://go-tv.site:443/live/gotv/12345/20.ts
+#EXTINF:-1 tvg-logo="https://f.top4top.io/p_3621s42870.jpg" group-title="بين سبورت 1080p",بين سبورت 7 1080p
+https://go-tv.site:443/live/gotv/12345/21.ts
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2026/06/11/14/785926126.png" group-title="",tood 1 4k
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460836.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2026/06/11/14/785926126.png" group-title="",tood 2 4k
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460837.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2026/06/11/14/785926126.png" group-title="",tood 3 4k
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460838.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2026/06/11/14/785926126.png" group-title="",tood 4 4k
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460839.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2026/06/11/14/785926126.png" group-title="",tood 5 4k
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460840.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2026/06/11/14/785926126.png" group-title="",tood 6 4k
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460841.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2026/06/11/14/785926126.png" group-title="",tood 7 4k
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460842.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2026/06/11/14/785926126.png" group-title="",tood 8 4k
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460843.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2026/06/11/14/785926126.png" group-title="",tood 9 4k
-http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live/357643467990765/Ofgo3yz8CH/460844.ts
-
-
+#EXTINF:-1 tvg-logo="https://b.top4top.io/p_3618evdsl0.jpg" group-title="بين سبورت 720p",بين سبورت 1 720p
+https://go-tv.site:443/live/gotv/12345/8.ts
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_362103am30.jpg" group-title="بين سبورت 720p",بين سبورت 2 720p
+https://go-tv.site:443/live/gotv/12345/9.ts
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3621x9iaa0.jpg" group-title="بين سبورت 720p",بين سبورت 3 720p
+https://go-tv.site:443/live/gotv/12345/10.ts
+#EXTINF:-1 tvg-logo="https://h.top4top.io/p_36210gt9c0.jpg" group-title="بين سبورت 720p",بين سبورت 4 720p
+https://go-tv.site:443/live/gotv/12345/11.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3621rwsld0.jpg" group-title="بين سبورت 720p",بين سبورت 5 720p
+https://go-tv.site:443/live/gotv/12345/12.ts
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_36210foxu0.jpg" group-title="بين سبورت 720p",بين سبورت 6 720p
+https://go-tv.site:443/live/gotv/12345/13.ts
+#EXTINF:-1 tvg-logo="https://f.top4top.io/p_3621s42870.jpg" group-title="بين سبورت 720p",بين سبورت 7 720p
+https://go-tv.site:443/live/gotv/12345/14.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://b.top4top.io/p_3618evdsl0.jpg" group-title="بين سبورت 480p",بين سبورت 1 480p
+https://go-tv.site:443/live/gotv/12345/1.ts
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_362103am30.jpg" group-title="بين سبورت 480p",بين سبورت 2 480p
+https://go-tv.site:443/live/gotv/12345/2.ts
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3621x9iaa0.jpg" group-title="بين سبورت 480p",بين سبورت 3 480p
+https://go-tv.site:443/live/gotv/12345/3.ts
+#EXTINF:-1 tvg-logo="https://h.top4top.io/p_36210gt9c0.jpg" group-title="بين سبورت 480p",بين سبورت 4 480p
+https://go-tv.site:443/live/gotv/12345/4.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3621rwsld0.jpg" group-title="بين سبورت 480p",بين سبورت 5 480p
+https://go-tv.site:443/live/gotv/12345/5.ts
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_36210foxu0.jpg" group-title="بين سبورت 480p",بين سبورت 6 480p
+https://go-tv.site:443/live/gotv/12345/6.ts
+#EXTINF:-1 tvg-logo="https://f.top4top.io/p_3621s42870.jpg" group-title="بين سبورت 480p",بين سبورت 7 480p
+https://go-tv.site:443/live/gotv/12345/7.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT HDR
+https://go-tv.site:443/live/gotv/12345/22.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 1
+https://go-tv.site:443/live/gotv/12345/23.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 2
+https://go-tv.site:443/live/gotv/12345/24.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 3
+https://go-tv.site:443/live/gotv/12345/25.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 4
+https://go-tv.site:443/live/gotv/12345/26.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 5
+https://go-tv.site:443/live/gotv/12345/27.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 6
+https://go-tv.site:443/live/gotv/12345/28.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 7
+https://go-tv.site:443/live/gotv/12345/29.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 8
+https://go-tv.site:443/live/gotv/12345/30.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 9
+https://go-tv.site:443/live/gotv/12345/31.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 10
+https://go-tv.site:443/live/gotv/12345/32.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 11
+https://go-tv.site:443/live/gotv/12345/33.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 12
+https://go-tv.site:443/live/gotv/12345/34.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 13
+https://go-tv.site:443/live/gotv/12345/35.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 14
+https://go-tv.site:443/live/gotv/12345/36.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 15
+https://go-tv.site:443/live/gotv/12345/37.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 16
+https://go-tv.site:443/live/gotv/12345/38.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 17
+https://go-tv.site:443/live/gotv/12345/39.ts
+#EXTINF:-1 tvg-logo="http://" group-title="TOD EVENT",TOD EVENT 18
+https://go-tv.site:443/live/gotv/12345/40.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S2",بين سبورت 1
+https://go-tv.site:443/live/gotv/12345/41.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S2",بين سبورت 2
+https://go-tv.site:443/live/gotv/12345/42.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S2",بين سبورت 3
+https://go-tv.site:443/live/gotv/12345/43.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S2",بين سبورت 4
+https://go-tv.site:443/live/gotv/12345/44.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S2",بين سبورت 5
+https://go-tv.site:443/live/gotv/12345/45.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 1 FHD
+https://go-tv.site:443/live/gotv/12345/46.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 1 FHD2
+https://go-tv.site:443/live/gotv/12345/47.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 1 FHD3
+https://go-tv.site:443/live/gotv/12345/48.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 1 SD
+https://go-tv.site:443/live/gotv/12345/49.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 1 LOW
+https://go-tv.site:443/live/gotv/12345/50.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 2 FHD
+https://go-tv.site:443/live/gotv/12345/51.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 2 s2
+https://go-tv.site:443/live/gotv/12345/52.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 2 s3
+https://go-tv.site:443/live/gotv/12345/53.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 2 SD
+https://go-tv.site:443/live/gotv/12345/54.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 2 LOW
+https://go-tv.site:443/live/gotv/12345/55.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 3
+https://go-tv.site:443/live/gotv/12345/56.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 3 s2
+https://go-tv.site:443/live/gotv/12345/57.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 3 SD
+https://go-tv.site:443/live/gotv/12345/58.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 3 LOW
+https://go-tv.site:443/live/gotv/12345/59.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 4
+https://go-tv.site:443/live/gotv/12345/60.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 4 s2
+https://go-tv.site:443/live/gotv/12345/61.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 4 SD
+https://go-tv.site:443/live/gotv/12345/62.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 4 LOW
+https://go-tv.site:443/live/gotv/12345/63.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 5
+https://go-tv.site:443/live/gotv/12345/64.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 5 s2
+https://go-tv.site:443/live/gotv/12345/65.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 5 SD
+https://go-tv.site:443/live/gotv/12345/66.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="بين سبورت S3",بين سبورت 5 LOW
+https://go-tv.site:443/live/gotv/12345/67.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 1 4K
+https://go-tv.site:443/live/gotv/12345/68.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 2 4K
+https://go-tv.site:443/live/gotv/12345/69.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 3 4K
+https://go-tv.site:443/live/gotv/12345/70.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 4 4K
+https://go-tv.site:443/live/gotv/12345/71.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 5 4K
+https://go-tv.site:443/live/gotv/12345/72.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 6 4K
+https://go-tv.site:443/live/gotv/12345/73.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 7 4K
+https://go-tv.site:443/live/gotv/12345/74.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 8 4K
+https://go-tv.site:443/live/gotv/12345/75.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 9 4K
+https://go-tv.site:443/live/gotv/12345/76.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 10 4 K
+https://go-tv.site:443/live/gotv/12345/77.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان WWE
+https://go-tv.site:443/live/gotv/12345/78.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان UFC
+https://go-tv.site:443/live/gotv/12345/79.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 1 4K S2
+https://go-tv.site:443/live/gotv/12345/80.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",HD ألوان 1 S2
+https://go-tv.site:443/live/gotv/12345/81.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 2 4K S2
+https://go-tv.site:443/live/gotv/12345/82.ts
+#EXTINF:-1 group-title="ألوان الرياضية",ألوان 2 HD S2
+https://go-tv.site:443/live/gotv/12345/83.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 3 4K S2
+https://go-tv.site:443/live/gotv/12345/84.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ألوان الرياضية",ألوان 4 4K S2
+https://go-tv.site:443/live/gotv/12345/85.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",Duhok Dport
+https://go-tv.site:443/live/gotv/12345/86.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",LD Sport
+https://go-tv.site:443/live/gotv/12345/87.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",See Sport 1
+https://go-tv.site:443/live/gotv/12345/88.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",See Sport 2
+https://go-tv.site:443/live/gotv/12345/89.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",See Sport 3
+https://go-tv.site:443/live/gotv/12345/90.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",AVA Sport
+https://go-tv.site:443/live/gotv/12345/91.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",ARO Sport
+https://go-tv.site:443/live/gotv/12345/92.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",4 Sport
+https://go-tv.site:443/live/gotv/12345/93.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",Astera Sport
+https://go-tv.site:443/live/gotv/12345/94.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",NRT Sport
+https://go-tv.site:443/live/gotv/12345/95.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",Kurdistan Sport
+https://go-tv.site:443/live/gotv/12345/96.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",Dasinya Sport
+https://go-tv.site:443/live/gotv/12345/97.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",MTV Sport
+https://go-tv.site:443/live/gotv/12345/98.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",ASO Sport
+https://go-tv.site:443/live/gotv/12345/99.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",Newline Sport
+https://go-tv.site:443/live/gotv/12345/100.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",MMN Sport
+https://go-tv.site:443/live/gotv/12345/101.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",NUBAR Sport
+https://go-tv.site:443/live/gotv/12345/102.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",SIMA Sport
+https://go-tv.site:443/live/gotv/12345/103.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",Zaxo Sport
+https://go-tv.site:443/live/gotv/12345/104.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",LD SPORT CHEAK
+https://go-tv.site:443/live/gotv/12345/105.ts
+#EXTINF:-1 tvg-logo="http://" group-title="KURD SPORTS",Delal Sport
+https://go-tv.site:443/live/gotv/12345/106.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://j.top4top.io/p_36453bh5s0.jpg" group-title="STARZPLAY",STARZPLAY 1HD
+https://go-tv.site:443/live/gotv/12345/107.ts
+#EXTINF:-1 tvg-logo="https://j.top4top.io/p_36453bh5s0.jpg" group-title="STARZPLAY",STARZPLAY 2HD
+https://go-tv.site:443/live/gotv/12345/108.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3645en9pb0.jpg" group-title="ثمانية",ثمانية 1
+https://go-tv.site:443/live/gotv/12345/109.ts
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3645en9pb0.jpg" group-title="ثمانية",ثمانية 2
+https://go-tv.site:443/live/gotv/12345/110.ts
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3645en9pb0.jpg" group-title="ثمانية",ثمانية 3
+https://go-tv.site:443/live/gotv/12345/111.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://go" group-title="ONC",ONC Turkey mix
+https://go-tv.site:443/live/gotv/12345/112.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC Turkey Dubb
+https://go-tv.site:443/live/gotv/12345/113.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC REwayat
+https://go-tv.site:443/live/gotv/12345/114.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC plus
+https://go-tv.site:443/live/gotv/12345/115.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC premiere
+https://go-tv.site:443/live/gotv/12345/116.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC ASia
+https://go-tv.site:443/live/gotv/12345/117.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC Animation
+https://go-tv.site:443/live/gotv/12345/118.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC Cartoon
+https://go-tv.site:443/live/gotv/12345/119.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",Onc Bollywood
+https://go-tv.site:443/live/gotv/12345/120.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC horror
+https://go-tv.site:443/live/gotv/12345/121.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC Classic
+https://go-tv.site:443/live/gotv/12345/122.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC Cinema
+https://go-tv.site:443/live/gotv/12345/123.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC Series
+https://go-tv.site:443/live/gotv/12345/124.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC Movies
+https://go-tv.site:443/live/gotv/12345/125.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC drama
+https://go-tv.site:443/live/gotv/12345/126.ts
+#EXTINF:-1 tvg-logo="http://" group-title="ONC",ONC comedy
+https://go-tv.site:443/live/gotv/12345/127.ts
+#EXTINF:-1 tvg-logo="http://go" group-title="ONC",ONC history
+https://go-tv.site:443/live/gotv/12345/128.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",BEIN SPORTS UHD/ 4K
+https://go-tv.site:443/live/gotv/12345/129.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",Sky Sports UHD1
+https://go-tv.site:443/live/gotv/12345/130.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",T20 Star 4K
+https://go-tv.site:443/live/gotv/12345/131.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",ElevenSport4K
+https://go-tv.site:443/live/gotv/12345/132.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",TNT Sports Ultimate 4K HDR
+https://go-tv.site:443/live/gotv/12345/133.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",Astro Sports UHD 4K
+https://go-tv.site:443/live/gotv/12345/134.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",Love Nature 4K
+https://go-tv.site:443/live/gotv/12345/135.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",Sky Sports UHD2
+https://go-tv.site:443/live/gotv/12345/136.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",MAYZENTV 4K
+https://go-tv.site:443/live/gotv/12345/137.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",Travel XP 4K
+https://go-tv.site:443/live/gotv/12345/138.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",FASHION TV 4K
+https://go-tv.site:443/live/gotv/12345/139.ts
+#EXTINF:-1 tvg-logo="http://" group-title="4K HDR",Museum 4K
+https://go-tv.site:443/live/gotv/12345/140.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Aflam 1
+https://go-tv.site:443/live/gotv/12345/141.ts
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Cinema
+https://go-tv.site:443/live/gotv/12345/142.ts
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Masrah
+https://go-tv.site:443/live/gotv/12345/143.ts
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Zaman
+https://go-tv.site:443/live/gotv/12345/144.ts
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Classic
+https://go-tv.site:443/live/gotv/12345/145.ts
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Aflam 2
+https://go-tv.site:443/live/gotv/12345/146.ts
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Fantasy
+https://go-tv.site:443/live/gotv/12345/147.ts
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Crime
+https://go-tv.site:443/live/gotv/12345/148.ts
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Action
+https://go-tv.site:443/live/gotv/12345/149.ts
+#EXTINF:-1 tvg-logo="http://" group-title="Majestic",Majestic Hindi
+https://go-tv.site:443/live/gotv/12345/150.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3549s6gla0.jpg" group-title="بي ان الترفيهية",بي ان أفلام
+https://go-tv.site:443/live/gotv/12345/151.ts
+#EXTINF:-1 tvg-logo="https://j.top4top.io/p_3549ft2tq0.jpg" group-title="بي ان الترفيهية",بي ان أكشن
+https://go-tv.site:443/live/gotv/12345/152.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3549itiox0.jpg" group-title="بي ان الترفيهية",بي أن دراما
+https://go-tv.site:443/live/gotv/12345/153.ts
+#EXTINF:-1 tvg-logo="https://f.top4top.io/p_3549tzehm0.jpg" group-title="بي ان الترفيهية",بي ان العائلية
+https://go-tv.site:443/live/gotv/12345/154.ts
+#EXTINF:-1 tvg-logo="https://f.top4top.io/p_3549qo8fm0.jpg" group-title="بي ان الترفيهية",بي ان مسلسلات 1
+https://go-tv.site:443/live/gotv/12345/155.ts
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3698a9d3x0.jpg" group-title="بي ان الترفيهية",بي ان box office 1
+https://go-tv.site:443/live/gotv/12345/156.ts
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3698a9d3x0.jpg" group-title="بي ان الترفيهية",بي ان box office 2
+https://go-tv.site:443/live/gotv/12345/157.ts
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3698a9d3x0.jpg" group-title="بي ان الترفيهية",بي ان box office 3
+https://go-tv.site:443/live/gotv/12345/158.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3550jscug0.jpg" group-title="MBC",mbc العراق
+https://go-tv.site:443/live/gotv/12345/159.ts
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3549eevo10.jpg" group-title="MBC",mbc 1
+https://go-tv.site:443/live/gotv/12345/160.ts
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3549omtq70.jpg" group-title="MBC",mbc 2
+https://go-tv.site:443/live/gotv/12345/161.ts
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_35492tcgw0.jpg" group-title="MBC",mbc 3
+https://go-tv.site:443/live/gotv/12345/162.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3549gpsd90.jpg" group-title="MBC",mbc 4
+https://go-tv.site:443/live/gotv/12345/163.ts
+#EXTINF:-1 tvg-logo="https://d.top4top.io/p_3549zljmc0.jpg" group-title="MBC",mbc 5
+https://go-tv.site:443/live/gotv/12345/164.ts
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3562jjka50.jpg" group-title="MBC",mbc max
+https://go-tv.site:443/live/gotv/12345/165.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_35493mquf0.jpg" group-title="MBC",mbc بوليود
+https://go-tv.site:443/live/gotv/12345/166.ts
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_354912gpf0.jpg" group-title="MBC",mbc دراما
+https://go-tv.site:443/live/gotv/12345/167.ts
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3549us9o90.jpg" group-title="MBC",mbc مصر 2
+https://go-tv.site:443/live/gotv/12345/168.ts
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3549rxyxo0.jpg" group-title="MBC",mbc أكشن
+https://go-tv.site:443/live/gotv/12345/169.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Yahala Aflam
+https://go-tv.site:443/live/gotv/12345/170.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Yahala Bil Arabi
+https://go-tv.site:443/live/gotv/12345/171.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Yahala Oula
+https://go-tv.site:443/live/gotv/12345/172.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Alfa al safwa
+https://go-tv.site:443/live/gotv/12345/173.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Alfa Al Fann
+https://go-tv.site:443/live/gotv/12345/174.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Alfa Alyoum
+https://go-tv.site:443/live/gotv/12345/175.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Alfa Cinema 1
+https://go-tv.site:443/live/gotv/12345/176.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Alfa Cinema 2
+https://go-tv.site:443/live/gotv/12345/177.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Alfa Musalsalat
+https://go-tv.site:443/live/gotv/12345/178.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Alfa Musalsalat +2
+https://go-tv.site:443/live/gotv/12345/179.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Art Aflam 1
+https://go-tv.site:443/live/gotv/12345/180.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Art Aflam 2
+https://go-tv.site:443/live/gotv/12345/181.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Discovery
+https://go-tv.site:443/live/gotv/12345/182.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Discovery IDX
+https://go-tv.site:443/live/gotv/12345/183.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Movies Family
+https://go-tv.site:443/live/gotv/12345/184.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Movies Premiere
+https://go-tv.site:443/live/gotv/12345/185.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN movies action
+https://go-tv.site:443/live/gotv/12345/186.ts
+#EXTINF:-1 tvg-logo="http://" group-title="OSN",OSN Movies hollywood
+https://go-tv.site:443/live/gotv/12345/187.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3646urtt00.jpg" group-title="الكاس",الكاس 1
+https://go-tv.site:443/live/gotv/12345/188.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3646urtt00.jpg" group-title="الكاس",الكاس 2
+https://go-tv.site:443/live/gotv/12345/189.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3646urtt00.jpg" group-title="الكاس",الكاس 3
+https://go-tv.site:443/live/gotv/12345/190.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3646urtt00.jpg" group-title="الكاس",الكاس 4
+https://go-tv.site:443/live/gotv/12345/191.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3646urtt00.jpg" group-title="الكاس",الكاس 5
+https://go-tv.site:443/live/gotv/12345/192.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3646urtt00.jpg" group-title="الكاس",الكاس 6
+https://go-tv.site:443/live/gotv/12345/193.ts
+#EXTINF:-1 tvg-logo="https://a.top4top.io/p_3646urtt00.jpg" group-title="الكاس",الكاس 7
+https://go-tv.site:443/live/gotv/12345/194.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3664b64de0.jpg" group-title="شاهد الرياضية",شاهد الرياضية 1
+https://go-tv.site:443/live/gotv/12345/195.ts
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3664b64de0.jpg" group-title="شاهد الرياضية",شاهد الرياضية 2
+https://go-tv.site:443/live/gotv/12345/196.ts
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3664b64de0.jpg" group-title="شاهد الرياضية",شاهد الرياضية 3
+https://go-tv.site:443/live/gotv/12345/197.ts
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3664b64de0.jpg" group-title="شاهد الرياضية",شاهد الرياضية 4
+https://go-tv.site:443/live/gotv/12345/198.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://l.top4top.io/p_3599n843u0.jpg" group-title="قنوات وثائقية",ناشيونال جيوغرافيك
+https://go-tv.site:443/live/gotv/12345/213.ts
+#EXTINF:-1 tvg-logo="https://l.top4top.io/p_3599wl5i90.jpg" group-title="قنوات وثائقية",BBC EARTH
+https://go-tv.site:443/live/gotv/12345/214.ts
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3599g0nyk0.jpg" group-title="قنوات وثائقية",حياة البرية
+https://go-tv.site:443/live/gotv/12345/215.ts
+#EXTINF:-1 tvg-logo="https://k.top4top.io/p_3599e6y720.jpg" group-title="قنوات وثائقية",الشرق الوثائقية
+https://go-tv.site:443/live/gotv/12345/216.ts
+#EXTINF:-1 tvg-logo="https://j.top4top.io/p_3599slhxg0.jpg" group-title="قنوات وثائقية",الشرق Discovery
+https://go-tv.site:443/live/gotv/12345/217.ts
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3599df9k30.jpg" group-title="قنوات وثائقية",Animal Planet
+https://go-tv.site:443/live/gotv/12345/218.ts
+#EXTINF:-1 tvg-logo="https://i.top4top.io/p_3599l89qh0.jpg" group-title="قنوات وثائقية",الجزيرة الوثائقية
+https://go-tv.site:443/live/gotv/12345/219.ts
+#EXTINF:-1 tvg-logo="https://d.top4top.io/p_3599jb9ts0.jpg" group-title="قنوات وثائقية",وثائقيات نتفلكس
+https://go-tv.site:443/live/gotv/12345/220.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://h.top4top.io/p_3599mc18j0.jpg" group-title="الأخبار",العربية
+https://go-tv.site:443/live/gotv/12345/221.ts
+#EXTINF:-1 tvg-logo="https://d.top4top.io/p_3599p0yci0.jpg" group-title="الأخبار",الحدث
+https://go-tv.site:443/live/gotv/12345/222.ts
+#EXTINF:-1 tvg-logo="https://h.top4top.io/p_3599qjcuk0.jpg" group-title="الأخبار",الجزيرة
+https://go-tv.site:443/live/gotv/12345/223.ts
+#EXTINF:-1 tvg-logo="https://h.top4top.io/p_3599qjcuk0.jpg" group-title="الأخبار",الجزيرة مباشر
+https://go-tv.site:443/live/gotv/12345/224.ts
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_3599dfnbu0.jpg" group-title="الأخبار",العراقية الإخبارية
+https://go-tv.site:443/live/gotv/12345/225.ts
+#EXTINF:-1 tvg-logo="https://l.top4top.io/p_3599n9ski0.jpg" group-title="الأخبار",RT العربية
+https://go-tv.site:443/live/gotv/12345/226.ts
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3599z3xqv0.jpg" group-title="الأخبار",DW العربية
+https://go-tv.site:443/live/gotv/12345/227.ts
