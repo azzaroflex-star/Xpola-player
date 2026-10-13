@@ -1,409 +1,139 @@
-#EXTM3U
-#EXTINF:-1 group-title="KURDISTAN",Rudaw
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429643.ts
-#EXTINF:-1 group-title="KURDISTAN",K24
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429644.ts
-#EXTINF:-1 group-title="KURDISTAN",AVA Meida
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429645.ts
-#EXTINF:-1 group-title="KURDISTAN",NRT 1 News
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429646.ts
-#EXTINF:-1 group-title="KURDISTAN",Channel 8 Kurdish
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429647.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdistan TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429648.ts
-#EXTINF:-1 group-title="KURDISTAN",Gali Kurdistan
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429649.ts
-#EXTINF:-1 group-title="KURDISTAN",K24 DOC
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429650.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdsat News
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429651.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdsat TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429652.ts
-#EXTINF:-1 group-title="KURDISTAN",KurdMax Sorani
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429653.ts
-#EXTINF:-1 group-title="KURDISTAN",KurdMax Kurmanji
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429654.ts
-#EXTINF:-1 group-title="KURDISTAN",KurdMax Show Sorani
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429655.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdmax Show Kurmanji
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429656.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdmax Music
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429657.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdmax Pepula
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429658.ts
-#EXTINF:-1 group-title="KURDISTAN",Ava Sport
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429659.ts
-#EXTINF:-1 group-title="KURDISTAN",Aryen TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429664.ts
-#EXTINF:-1 group-title="KURDISTAN",Asman
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429665.ts
-#EXTINF:-1 group-title="KURDISTAN",LD LIFE
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429673.ts
-#EXTINF:-1 group-title="KURDISTAN",ATV KURD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429675.ts
-#EXTINF:-1 group-title="KURDISTAN",Avar
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429676.ts
-#EXTINF:-1 group-title="KURDISTAN",Azadi
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429677.ts
-#EXTINF:-1 group-title="KURDISTAN",Baboly
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429679.ts
-#EXTINF:-1 group-title="KURDISTAN",Baha Entertainment HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429680.ts
-#EXTINF:-1 group-title="KURDISTAN",Bangawaz
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429681.ts
-#EXTINF:-1 group-title="KURDISTAN",Barin Quran
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429682.ts
-#EXTINF:-1 group-title="KURDISTAN",BASK
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429683.ts
-#EXTINF:-1 group-title="KURDISTAN",BEFRIN HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429684.ts
-#EXTINF:-1 group-title="KURDISTAN",Binar
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429685.ts
-#EXTINF:-1 group-title="KURDISTAN",BMC
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429686.ts
-#EXTINF:-1 group-title="KURDISTAN",BNAR MOVIES HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429687.ts
-#EXTINF:-1 group-title="KURDISTAN",Bnar Action Drama
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429688.ts
-#EXTINF:-1 group-title="KURDISTAN",BNAR FAMILY HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429690.ts
-#EXTINF:-1 group-title="KURDISTAN",Jamawar TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429691.ts
-#EXTINF:-1 group-title="KURDISTAN",Gewher Sport
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429693.ts
-#EXTINF:-1 group-title="KURDISTAN",4 Anime
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429694.ts
-#EXTINF:-1 group-title="KURDISTAN",4 Kurd
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429695.ts
-#EXTINF:-1 group-title="KURDISTAN",Amozhgary
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429697.ts
-#EXTINF:-1 group-title="KURDISTAN",A.Amozhgary
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429698.ts
-#EXTINF:-1 group-title="KURDISTAN",A2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429699.ts
-#EXTINF:-1 group-title="KURDISTAN",AFARIN BAXCHA
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429700.ts
-#EXTINF:-1 group-title="KURDISTAN",Afarin Kids
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429701.ts
-#EXTINF:-1 group-title="KURDISTAN",Akili TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429702.ts
-#EXTINF:-1 group-title="KURDISTAN",Ala
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429703.ts
-#EXTINF:-1 group-title="KURDISTAN",ALLA
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429704.ts
-#EXTINF:-1 group-title="KURDISTAN",Cihan
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429705.ts
-#EXTINF:-1 group-title="KURDISTAN",Cira TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429706.ts
-#EXTINF:-1 group-title="KURDISTAN",Dasinya HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429707.ts
-#EXTINF:-1 group-title="KURDISTAN",Dasinya kids
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429708.ts
-#EXTINF:-1 group-title="KURDISTAN",Dasinya Music
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429709.ts
-#EXTINF:-1 group-title="KURDISTAN",Delal TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429712.ts
-#EXTINF:-1 group-title="KURDISTAN",Derin
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429713.ts
-#EXTINF:-1 group-title="KURDISTAN",Derwaza Music
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429714.ts
-#EXTINF:-1 group-title="KURDISTAN",Derwaze
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429715.ts
-#EXTINF:-1 group-title="KURDISTAN",Dever
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429716.ts
-#EXTINF:-1 group-title="KURDISTAN",Dimen
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429717.ts
-#EXTINF:-1 group-title="KURDISTAN",Duhok
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429718.ts
-#EXTINF:-1 group-title="KURDISTAN",Duhok TV HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429720.ts
-#EXTINF:-1 group-title="KURDISTAN",ESRA 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429721.ts
-#EXTINF:-1 group-title="KURDISTAN",ESRA TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429723.ts
-#EXTINF:-1 group-title="KURDISTAN",EUROKURD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429724.ts
-#EXTINF:-1 group-title="KURDISTAN",Ezdan
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429725.ts
-#EXTINF:-1 group-title="KURDISTAN",Farmoda
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429726.ts
-#EXTINF:-1 group-title="KURDISTAN",First
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429727.ts
-#EXTINF:-1 group-title="KURDISTAN",Fox HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429728.ts
-#EXTINF:-1 group-title="KURDISTAN",Garyan TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429729.ts
-#EXTINF:-1 group-title="KURDISTAN",Gewhar
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429730.ts
-#EXTINF:-1 group-title="KURDISTAN",Halabja
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429731.ts
-#EXTINF:-1 group-title="KURDISTAN",Iraqia Kurd
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429733.ts
-#EXTINF:-1 group-title="KURDISTAN",Jin
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429735.ts
-#EXTINF:-1 group-title="KURDISTAN",JoJo MaMa
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429736.ts
-#EXTINF:-1 group-title="KURDISTAN",Judi
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429737.ts
-#EXTINF:-1 group-title="KURDISTAN",Kalapur
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429738.ts
-#EXTINF:-1 group-title="KURDISTAN",Kani
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429739.ts
-#EXTINF:-1 group-title="KURDISTAN",Khak
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429740.ts
-#EXTINF:-1 group-title="KURDISTAN",Kirkuk
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429742.ts
-#EXTINF:-1 group-title="KURDISTAN",Komal Ranya
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429743.ts
-#EXTINF:-1 group-title="KURDISTAN",Komall
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429744.ts
-#EXTINF:-1 group-title="KURDISTAN",KRD WWE
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429745.ts
-#EXTINF:-1 group-title="KURDISTAN",KURD CHANNEL
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429747.ts
-#EXTINF:-1 group-title="KURDISTAN",KURD MOVIES
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429748.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdana
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429749.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdcinema
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429750.ts
-#EXTINF:-1 group-title="KURDISTAN",SORAN Entertainment
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429752.ts
-#EXTINF:-1 group-title="KURDISTAN",LD Anime
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429753.ts
-#EXTINF:-1 group-title="KURDISTAN",LD AZHIN
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429754.ts
-#EXTINF:-1 group-title="KURDISTAN",LD Family
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429755.ts
-#EXTINF:-1 group-title="KURDISTAN",LD Kurdcinema
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429756.ts
-#EXTINF:-1 group-title="KURDISTAN",LD Nujin
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429757.ts
-#EXTINF:-1 group-title="KURDISTAN",LD Pshdar
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429758.ts
-#EXTINF:-1 group-title="KURDISTAN",LD SPORT CHEAK
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429760.ts
-#EXTINF:-1 group-title="KURDISTAN",Med Music
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429761.ts
-#EXTINF:-1 group-title="KURDISTAN",Mihrab
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429762.ts
-#EXTINF:-1 group-title="KURDISTAN",Mihrab FM
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429763.ts
-#EXTINF:-1 group-title="KURDISTAN",Minara
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429764.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN ACTION
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429766.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN Classic Musical
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429767.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN Clip
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429768.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN Documentary
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429769.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN DRAMA
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429770.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN Kids
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429771.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN Movies
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429772.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN News
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429773.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN Radio Farsy
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429774.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN Radio Turkey
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429775.ts
-#EXTINF:-1 group-title="KURDISTAN",MMN Show
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429776.ts
-#EXTINF:-1 group-title="KURDISTAN",MNN ACTION
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429778.ts
-#EXTINF:-1 group-title="KURDISTAN",MTV Family
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429779.ts
-#EXTINF:-1 group-title="KURDISTAN",MTV Kids
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429780.ts
-#EXTINF:-1 group-title="KURDISTAN",NewLine
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429782.ts
-#EXTINF:-1 group-title="KURDISTAN",Newline 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429783.ts
-#EXTINF:-1 group-title="KURDISTAN",NewMax Box Office 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429785.ts
-#EXTINF:-1 group-title="KURDISTAN",Next TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429786.ts
-#EXTINF:-1 group-title="KURDISTAN",Niga Family
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429787.ts
-#EXTINF:-1 group-title="KURDISTAN",Niga Kids
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429788.ts
-#EXTINF:-1 group-title="KURDISTAN",Niga Movies
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429789.ts
-#EXTINF:-1 group-title="KURDISTAN",Niroj
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429790.ts
-#EXTINF:-1 group-title="KURDISTAN",Nishtimany mn
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429792.ts
-#EXTINF:-1 group-title="KURDISTAN",Noor
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429793.ts
-#EXTINF:-1 group-title="KURDISTAN",NRT 2 Family
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429795.ts
-#EXTINF:-1 group-title="KURDISTAN",NRT 3 Kids
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429796.ts
-#EXTINF:-1 group-title="KURDISTAN",NRT 4 Ayni
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429797.ts
-#EXTINF:-1 group-title="KURDISTAN",One World
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429799.ts
-#EXTINF:-1 group-title="KURDISTAN",Parwardai Hawler HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429800.ts
-#EXTINF:-1 group-title="KURDISTAN",Parwardayi Duhok
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429801.ts
-#EXTINF:-1 group-title="KURDISTAN",Payam
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429802.ts
-#EXTINF:-1 group-title="KURDISTAN",Qalam Ayni
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429804.ts
-#EXTINF:-1 group-title="KURDISTAN",Qalam geoghraphic
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429805.ts
-#EXTINF:-1 group-title="KURDISTAN",Qalam kids
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429806.ts
-#EXTINF:-1 group-title="KURDISTAN",Qalam TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429807.ts
-#EXTINF:-1 group-title="KURDISTAN",Qalat
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429808.ts
-#EXTINF:-1 group-title="KURDISTAN",Ranya
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429809.ts
-#EXTINF:-1 group-title="KURDISTAN",Rasan
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429810.ts
-#EXTINF:-1 group-title="KURDISTAN",RAVAND
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429811.ts
-#EXTINF:-1 group-title="KURDISTAN",Reng
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429813.ts
-#EXTINF:-1 group-title="KURDISTAN",Reng Document
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429814.ts
-#EXTINF:-1 group-title="KURDISTAN",Rojava
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429815.ts
-#EXTINF:-1 group-title="KURDISTAN",Rojgar
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429816.ts
-#EXTINF:-1 group-title="KURDISTAN",Ronahi
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429817.ts
-#EXTINF:-1 group-title="KURDISTAN",Rozh
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429818.ts
-#EXTINF:-1 group-title="KURDISTAN",SADA
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429819.ts
-#EXTINF:-1 group-title="KURDISTAN",Sahar Kurdi
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429820.ts
-#EXTINF:-1 group-title="KURDISTAN",Saudi Ch. For Sunnah
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429821.ts
-#EXTINF:-1 group-title="KURDISTAN",Shaista
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429825.ts
-#EXTINF:-1 group-title="KURDISTAN",Shna
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429826.ts
-#EXTINF:-1 group-title="KURDISTAN",Sima
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429827.ts
-#EXTINF:-1 group-title="KURDISTAN",Sima Documentary
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429828.ts
-#EXTINF:-1 group-title="KURDISTAN",Slemani
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429830.ts
-#EXTINF:-1 group-title="KURDISTAN",Speda
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429831.ts
-#EXTINF:-1 group-title="KURDISTAN",Speda  Drama
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429832.ts
-#EXTINF:-1 group-title="KURDISTAN",Spi HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429833.ts
-#EXTINF:-1 group-title="KURDISTAN",Srusht
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429835.ts
-#EXTINF:-1 group-title="KURDISTAN",Sterk
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429836.ts
-#EXTINF:-1 group-title="KURDISTAN",tasawf
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429837.ts
-#EXTINF:-1 group-title="KURDISTAN",TRT KURDI
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429838.ts
-#EXTINF:-1 group-title="KURDISTAN",U TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429839.ts
-#EXTINF:-1 group-title="KURDISTAN",U2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429840.ts
-#EXTINF:-1 group-title="KURDISTAN",UTV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429841.ts
-#EXTINF:-1 group-title="KURDISTAN",UTV 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429842.ts
-#EXTINF:-1 group-title="KURDISTAN",UTV DUHOK  HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429843.ts
-#EXTINF:-1 group-title="KURDISTAN",WAAR
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429844.ts
-#EXTINF:-1 group-title="KURDISTAN",Welat Tv
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429845.ts
-#EXTINF:-1 group-title="KURDISTAN",Xabir
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429846.ts
-#EXTINF:-1 group-title="KURDISTAN",Zagros TV
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429847.ts
-#EXTINF:-1 group-title="KURDISTAN",Zarok Sorani
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429848.ts
-#EXTINF:-1 group-title="KURDISTAN",Zaxo
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429849.ts
-#EXTINF:-1 group-title="KURDISTAN",Zaxo HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429850.ts
-#EXTINF:-1 group-title="KURDISTAN",Zed HD
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429852.ts
-#EXTINF:-1 group-title="KURDISTAN",ZED Plus
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429853.ts
-#EXTINF:-1 group-title="KURDISTAN",Zhyar
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429855.ts
-#EXTINF:-1 group-title="KURDISTAN",Znar
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429856.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Bangxwazen Badinan
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429860.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Newline Bollywood
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429861.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Newline Drama
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429862.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Newline Kids
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429863.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Newline Movies
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429864.ts
-#EXTINF:-1 group-title="KURDISTAN",Naqshi Media
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429865.ts
-#EXTINF:-1 group-title="KURDISTAN",KOMALA Media Network
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429866.ts
-#EXTINF:-1 group-title="KURDISTAN",Barnmay Barnama
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429868.ts
-#EXTINF:-1 group-title="KURDISTAN",Bazmi Bazm
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429869.ts
-#EXTINF:-1 group-title="KURDISTAN",Dramay 3 ba 4
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429870.ts
-#EXTINF:-1 group-title="KURDISTAN",Forever Badini Movies
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429871.ts
-#EXTINF:-1 group-title="KURDISTAN",Forever Badini Series
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429872.ts
-#EXTINF:-1 group-title="KURDISTAN",Forever Cartoon 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429873.ts
-#EXTINF:-1 group-title="KURDISTAN",Forever Cartoon 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429874.ts
-#EXTINF:-1 group-title="KURDISTAN",Forever Cartoon 3
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429875.ts
-#EXTINF:-1 group-title="KURDISTAN",Forever Documentary
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429876.ts
-#EXTINF:-1 group-title="KURDISTAN",Forever Tom & Jerry
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429877.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdcinema Action 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429881.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdcinema Action 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429882.ts
-#EXTINF:-1 group-title="KURDISTAN",Kurdcinema Action 3
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429883.ts
-#EXTINF:-1 group-title="KURDISTAN",Mr. Bean Kurdish
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429884.ts
-#EXTINF:-1 group-title="KURDISTAN",Muhammad Mala Fayaq
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429885.ts
-#EXTINF:-1 group-title="KURDISTAN",NewMax Box Office
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429886.ts
-#EXTINF:-1 group-title="KURDISTAN",Qaqa
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429887.ts
-#EXTINF:-1 group-title="KURDISTAN",Adnan Wa Lina 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429889.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Forever Cinema 1
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429890.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Forever Cinema 2
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429891.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Forever Cinema 3
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429892.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Forever Fishing
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429893.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Forever Kurdistan Nature
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429894.ts
-#EXTINF:-1 group-title="KURDISTAN",K-Forever Pink Panther
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429895.ts
-#EXTINF:-1 group-title="KURDISTAN",K-KURD MOVIES
-http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/429896.ts
+🎬 PARAMOUNT+ HITS REPORT 🎬
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Total Hits: 100+ | 🆓 Free: 20
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ PREMIUM — ANNUAL
+
+📧 josemontalvan1962@gmail.com:Antonio@2691@Mo@ | MX 🇲🇽 | Annual
+📧 norariv12@gmail.com:Param285420 | MX 🇲🇽 | Premium Annual
+📧 jonumec@uol.com.br:383222jn | BR 🇧🇷 | Premium Annual
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ PREMIUM — MONTHLY
+
+📧 flaaltv9paramou@fla81.com:flamengo123@ | BR 🇧🇷 | Premium
+📧 cindy24kellyfo1@hotmail.com:cliente7682 | BR 🇧🇷 | Premium
+📧 dpbblvpds@gmail.com:lopes1990 | BR 🇧🇷 | Premium
+📧 bebymg@gmail.com:Javier9879$ | MX 🇲🇽 | Premium
+📧 mecmec3810@gmail.com:Yanxs.3810 | FR 🇫🇷 | Premium
+📧 matheusxp2025@gmail.com:Matheusxp2026 | BR 🇧🇷 | Premium
+📧 jiovanelima3018@hotmail.com:#Jio030899 | BR 🇧🇷 | Premium
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ GLOBAL MONTHLY STANDARD
+
+📧 Kitafar08@gmail.com:saphron08 | MX 🇲🇽
+📧 dferreiraesouza@gmail.com:4848abcd | BR 🇧🇷
+📧 matu_per@hotmail.com:Hannah1305 | US 🇺🇸
+📧 aidandavid.thomson@gmail.com:Dreamcast2130! | GB 🇬🇧
+📧 matiasjoaquinrivero@hotmail.com:Suzaku40353394 | US 🇺🇸
+📧 jonathancaradonti@gmail.com:C4r4dont12703 | AR 🇦🇷
+📧 upsidedown435@gmail.com:S04mar93 | GB 🇬🇧
+📧 maarcosperez3@gmail.com:devedol5 | US 🇺🇸
+📧 le-piscine@outlook.com:Shemales123@ | UY 🇺🇾
+📧 eleanarosellao30@yahoo.com:Trialwal31259619 | MX 🇲🇽
+📧 valentinsalvoni@live.com:Vsalvoni123$ | MX 🇲🇽
+📧 nassaryc4@hotmail.com:flamengo123@ | US 🇺🇸
+📧 leseschini@hotmail.com:Di3go87 | BR 🇧🇷
+📧 dantelio@outlook.cl:Casa0231 | CL 🇨🇱
+📧 elvisrosales214@gmail.com:NNVNq5PtwSMM#KBd | MX 🇲🇽
+📧 xumecazaguate1815@gmail.com:Mendezazaguate061516 | MX 🇲🇽
+📧 paramount412@fla81.com:flamengo123@ | BR 🇧🇷
+📧 johan.nicolas0918@hotmail.com:nico0918 | MX 🇲🇽
+📧 brandonsalfate1@gmail.com:Ibrahim23 | MX 🇲🇽
+📧 Chelsea.leigh98@hotmail.com:Anything1 | MX 🇲🇽
+📧 angyyaz@gmail.com:Maad1988 | MX 🇲🇽
+📧 yorka77@gmail.com:yorkita55 | BR 🇧🇷
+📧 felipeafrank@hotmail.com:robsnaider123 | US 🇺🇸
+📧 juanking982@gmail.com:Thasup2022 | MX 🇲🇽
+📧 ajhservice46906063@gmail.com:Elchavo1987@ | BR 🇧🇷
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ MVPD STANDARD
+
+📧 whuittjaviera33@gmail.com:ConyJavi2504! | US
+📧 motohatsumoto@gmail.com:030436 | BR 🇧🇷
+📧 armando.peralta71@live.com:Carriego2385 | MX 🇲🇽
+📧 emanuele.spagnolo@gmail.com:Riccardo.09 | IT 🇮🇹
+📧 paramount1922@gmail.com:uala2022 | MX/US
+📧 lametropolitanafm@gmail.com:EmineNcia71 | MX 🇲🇽
+📧 leonelvillas@hotmail.com:leonel2207 | MX 🇲🇽
+📧 alessandro.siface@gmail.com:1234Sa56 | IT 🇮🇹
+📧 jjcopello@gmail.com:Manzanauwu19 | US
+📧 marcus@jgacofres.com.br:Joao2010. | BR 🇧🇷
+📧 gianinalogiudice@gmail.com:gianina1 | ES 🇪🇸
+📧 daklor.jr@gmail.com:JRizzo2026! | MX 🇲🇽
+📧 felixc969@gmail.com:Daniel2009 | BR 🇧🇷
+📧 razu.ldce@gmail.com:8938master | MX
+📧 Christiankingortiz@gmail.com:Christian5991 | MX
+📧 kaiogreend@gmail.com:Msk141516 | BR 🇧🇷
+📧 gefrancoga@hotmail.com:gef15559993 | MX 🇲🇽
+📧 alessandro@calabrese.be:Spottycalabrese10 | IT
+📧 diegaroq@gmail.com:Diego2024# | MX 🇲🇽
+📧 losguisadostux@gmail.com:Exitoso1$ | MX
+📧 bufosavino@gmail.com:DottorBufo61 | IT 🇮🇹
+📧 tlr1000@outlook.com:Explore123 | AU 🇦🇺
+📧 t.costaadv@outlook.com:T4m1r3$ | BR 🇧🇷
+📧 graciela52para@sucrense.com:sucrense500 | MX 🇲🇽
+📧 almironandreaflorencia@gmail.com:Flor.1234 | MX 🇲🇽
+📧 militajac@gmail.com:va@291214 | BR 🇧🇷
+📧 raulbenavides.com@gmail.com:171062jorge | MX 🇲🇽
+📧 davidenapoli.2000@icloud.com:zaczIx-fixmyw-8xevba | MX 🇲🇽
+📧 parent.prescilla@orange.fr:Presci!Syl200184 | FR 🇫🇷
+📧 ragnoclaudio@gmail.com:Aurora@1970 | IT
+📧 reynaldopatti9@gmail.com:198639ReyP@tti | MX 🇲🇽
+📧 patrizio.garofalo@gmail.com:goku88vegeta72 | IT
+📧 vidriosyplacas@gmail.com:LULUpato5321 | MX 🇲🇽
+📧 pinatraff@yahoo.it:Jana10argo7 | US
+📧 leandelpino123@gmail.com:LeanDelPino0 | MX 🇲🇽
+📧 pablo_zoladz@hotmail.com:sanchez2151 | MX 🇲🇽
+📧 bia.gomes.b2@gmail.com:Drag0204* | BR 🇧🇷
+📧 pini466@hotmail.com:lilalola2020 | AR 🇦🇷
+📧 leolmcosta@gmail.com:Lmb*072016 | BR 🇧🇷
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠️ MVPD ADS
+
+📧 liebl.mario@freenet.de:Di1P4MP! | DE 🇩🇪
+📧 heinzedennis@yahoo.de:Kochen2002 | DE 🇩🇪
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🆓 FREE ACCOUNTS
+
+flaaltv4paramou@fla81.com:flamengo123@
+rociokatia18@hotmail.com:ChuWi092016
+mirusky@gmail.com:papuch2016
+Dallgaynor@bigpond.com:Anita2727
+baronip57@gmail.com:ARSMARERS38
+kellylockwood13@yahoo.com:Domonic01!
+oscaregg1@hotmail.com:Edgardo3.
+gutierrezivann21@gmail.com:Lol123321!
+Markus.horvat@gmail.com:Marquitos123
+cordobatobias107@gmail.com:At240492at
+maicol09010@gmail.com:Paulis190614*
+pedrootaviozandona@hotmail.com:zandona1234
+roccoforlano95@gmail.com:Ross//2004
+Uselutketpalcihuatan@gmail.com:11483ceDECC
+aaronmoihl@gmail.com:Elmejordelmundo@123
+steveastbury@sky.com:H8175995RAFMAXIMAN26
+nadia_saez_bahamondez@hotmail.com:NADIA55**
+billabong_bek@hotmail.com:jimbar3g
+pablin9000@gmail.com:Romina19900804
+juanramon_Sistemas@hotmail.com:par310882
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 TOTAL: 100+ HITS + 20 FREE
+🎬 PARAMOUNT+ | VALID WORKING
+📅 UPDATED: 14 OCTOBER 2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
